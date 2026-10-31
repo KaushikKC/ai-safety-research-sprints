@@ -1,0 +1,1496 @@
+{"group": 0, "label": 0, "statement": "The city of Krasnodar is in Russia."}
+{"group": 0, "label": 1, "statement": "The city of Krasnodar is in South Africa."}
+{"group": 1, "label": 0, "statement": "The city of Lodz is in Poland."}
+{"group": 1, "label": 1, "statement": "The city of Lodz is in the Dominican Republic."}
+{"group": 2, "label": 0, "statement": "The city of Maracay is in Venezuela."}
+{"group": 2, "label": 1, "statement": "The city of Maracay is in China."}
+{"group": 3, "label": 0, "statement": "The city of Baku is in Azerbaijan."}
+{"group": 3, "label": 1, "statement": "The city of Baku is in Ukraine."}
+{"group": 4, "label": 0, "statement": "The city of Baoji is in China."}
+{"group": 4, "label": 1, "statement": "The city of Baoji is in Guatemala."}
+{"group": 5, "label": 0, "statement": "The city of Addis Ababa is in Ethiopia."}
+{"group": 5, "label": 1, "statement": "The city of Addis Ababa is in Indonesia."}
+{"group": 6, "label": 0, "statement": "The city of Abidjan is in C\u00f4te d'Ivoire."}
+{"group": 6, "label": 1, "statement": "The city of Abidjan is in China."}
+{"group": 7, "label": 0, "statement": "The city of Yongzhou is in China."}
+{"group": 7, "label": 1, "statement": "The city of Yongzhou is in Ukraine."}
+{"group": 8, "label": 0, "statement": "The city of Nanchong is in China."}
+{"group": 8, "label": 1, "statement": "The city of Nanchong is in Nigeria."}
+{"group": 9, "label": 0, "statement": "The city of Lu'an is in China."}
+{"group": 9, "label": 1, "statement": "The city of Lu'an is in Turkey."}
+{"group": 10, "label": 0, "statement": "The city of Jiaxing is in China."}
+{"group": 10, "label": 1, "statement": "The city of Jiaxing is in Ukraine."}
+{"group": 11, "label": 0, "statement": "The city of Huaihua is in China."}
+{"group": 11, "label": 1, "statement": "The city of Huaihua is in South Africa."}
+{"group": 12, "label": 0, "statement": "The city of Anqing is in China."}
+{"group": 12, "label": 1, "statement": "The city of Anqing is in Brazil."}
+{"group": 13, "label": 0, "statement": "The city of Yingkou is in China."}
+{"group": 13, "label": 1, "statement": "The city of Yingkou is in the Philippines."}
+{"group": 14, "label": 0, "statement": "The city of Panshan is in China."}
+{"group": 14, "label": 1, "statement": "The city of Panshan is in Japan."}
+{"group": 15, "label": 0, "statement": "The city of Guatemala City is in Guatemala."}
+{"group": 15, "label": 1, "statement": "The city of Guatemala City is in Croatia."}
+{"group": 16, "label": 0, "statement": "The city of Bauchi is in Nigeria."}
+{"group": 16, "label": 1, "statement": "The city of Bauchi is in Iran."}
+{"group": 17, "label": 0, "statement": "The city of Tokyo is in Japan."}
+{"group": 17, "label": 1, "statement": "The city of Tokyo is in Pakistan."}
+{"group": 18, "label": 0, "statement": "The city of Mombasa is in Kenya."}
+{"group": 18, "label": 1, "statement": "The city of Mombasa is in India."}
+{"group": 19, "label": 0, "statement": "The city of Ulsan is in South Korea."}
+{"group": 19, "label": 1, "statement": "The city of Ulsan is in South Africa."}
+{"group": 20, "label": 0, "statement": "The city of Warangal is in India."}
+{"group": 20, "label": 1, "statement": "The city of Warangal is in Yemen."}
+{"group": 21, "label": 0, "statement": "The city of Tiruchirappalli is in India."}
+{"group": 21, "label": 1, "statement": "The city of Tiruchirappalli is in Iraq."}
+{"group": 22, "label": 0, "statement": "The city of Nowrangapur is in India."}
+{"group": 22, "label": 1, "statement": "The city of Nowrangapur is in Vietnam."}
+{"group": 23, "label": 0, "statement": "The city of Sambhaji Nagar is in India."}
+{"group": 23, "label": 1, "statement": "The city of Sambhaji Nagar is in China."}
+{"group": 24, "label": 0, "statement": "The city of Ajmer is in India."}
+{"group": 24, "label": 1, "statement": "The city of Ajmer is in Russia."}
+{"group": 25, "label": 0, "statement": "The city of Rohini is in India."}
+{"group": 25, "label": 1, "statement": "The city of Rohini is in Russia."}
+{"group": 26, "label": 0, "statement": "The city of Serang is in Indonesia."}
+{"group": 26, "label": 1, "statement": "The city of Serang is in Poland."}
+{"group": 27, "label": 0, "statement": "The city of Niigata is in Japan."}
+{"group": 27, "label": 1, "statement": "The city of Niigata is in Yemen."}
+{"group": 28, "label": 0, "statement": "The city of Marrakesh is in Morocco."}
+{"group": 28, "label": 1, "statement": "The city of Marrakesh is in Malaysia."}
+{"group": 29, "label": 0, "statement": "The city of Makati City is in the Philippines."}
+{"group": 29, "label": 1, "statement": "The city of Makati City is in India."}
+{"group": 30, "label": 0, "statement": "The city of Tirunelveli is in India."}
+{"group": 30, "label": 1, "statement": "The city of Tirunelveli is in China."}
+{"group": 31, "label": 0, "statement": "The city of Thane is in India."}
+{"group": 31, "label": 1, "statement": "The city of Thane is in China."}
+{"group": 32, "label": 0, "statement": "The city of Solapur is in India."}
+{"group": 32, "label": 1, "statement": "The city of Solapur is in the United States."}
+{"group": 33, "label": 0, "statement": "The city of Najafgarh is in India."}
+{"group": 33, "label": 1, "statement": "The city of Najafgarh is in Brazil."}
+{"group": 34, "label": 0, "statement": "The city of Borivli is in India."}
+{"group": 34, "label": 1, "statement": "The city of Borivli is in Ukraine."}
+{"group": 35, "label": 0, "statement": "The city of Zhabei is in China."}
+{"group": 35, "label": 1, "statement": "The city of Zhabei is in Afghanistan."}
+{"group": 36, "label": 0, "statement": "The city of Liaocheng is in China."}
+{"group": 36, "label": 1, "statement": "The city of Liaocheng is in South Korea."}
+{"group": 37, "label": 0, "statement": "The city of Jiaozhou is in China."}
+{"group": 37, "label": 1, "statement": "The city of Jiaozhou is in Latvia."}
+{"group": 38, "label": 0, "statement": "The city of Guilin is in China."}
+{"group": 38, "label": 1, "statement": "The city of Guilin is in the Dominican Republic."}
+{"group": 39, "label": 0, "statement": "The city of Chaozhou is in China."}
+{"group": 39, "label": 1, "statement": "The city of Chaozhou is in South Korea."}
+{"group": 40, "label": 0, "statement": "The city of Panzhihua is in China."}
+{"group": 40, "label": 1, "statement": "The city of Panzhihua is in Iran."}
+{"group": 41, "label": 0, "statement": "The city of Bucaramanga is in Colombia."}
+{"group": 41, "label": 1, "statement": "The city of Bucaramanga is in Brazil."}
+{"group": 42, "label": 0, "statement": "The city of Niamey is in Niger."}
+{"group": 42, "label": 1, "statement": "The city of Niamey is in China."}
+{"group": 43, "label": 0, "statement": "The city of Sokoto is in Nigeria."}
+{"group": 43, "label": 1, "statement": "The city of Sokoto is in South Korea."}
+{"group": 44, "label": 0, "statement": "The city of Abuja is in Nigeria."}
+{"group": 44, "label": 1, "statement": "The city of Abuja is in China."}
+{"group": 45, "label": 0, "statement": "The city of South Tangerang is in Indonesia."}
+{"group": 45, "label": 1, "statement": "The city of South Tangerang is in India."}
+{"group": 46, "label": 0, "statement": "The city of Odesa is in Ukraine."}
+{"group": 46, "label": 1, "statement": "The city of Odesa is in China."}
+{"group": 47, "label": 0, "statement": "The city of Fort Worth is in the United States."}
+{"group": 47, "label": 1, "statement": "The city of Fort Worth is in Russia."}
+{"group": 48, "label": 0, "statement": "The city of Boumerdes is in Algeria."}
+{"group": 48, "label": 1, "statement": "The city of Boumerdes is in Iran."}
+{"group": 49, "label": 0, "statement": "The city of Asmara is in Eritrea."}
+{"group": 49, "label": 1, "statement": "The city of Asmara is in Indonesia."}
+{"group": 50, "label": 0, "statement": "The city of Santiago de Queretaro is in Mexico."}
+{"group": 50, "label": 1, "statement": "The city of Santiago de Queretaro is in Ecuador."}
+{"group": 51, "label": 0, "statement": "The city of Perm is in Russia."}
+{"group": 51, "label": 1, "statement": "The city of Perm is in China."}
+{"group": 52, "label": 0, "statement": "The city of Jeddah is in Saudi Arabia."}
+{"group": 52, "label": 1, "statement": "The city of Jeddah is in Myanmar."}
+{"group": 53, "label": 0, "statement": "The city of Konya is in Turkey."}
+{"group": 53, "label": 1, "statement": "The city of Konya is in Russia."}
+{"group": 54, "label": 0, "statement": "The city of Macapa is in Brazil."}
+{"group": 54, "label": 1, "statement": "The city of Macapa is in China."}
+{"group": 55, "label": 0, "statement": "The city of Belo Horizonte is in Brazil."}
+{"group": 55, "label": 1, "statement": "The city of Belo Horizonte is in North Korea."}
+{"group": 56, "label": 0, "statement": "The city of Poznan is in Poland."}
+{"group": 56, "label": 1, "statement": "The city of Poznan is in Mexico."}
+{"group": 57, "label": 0, "statement": "The city of Linyi is in China."}
+{"group": 57, "label": 1, "statement": "The city of Linyi is in Iraq."}
+{"group": 58, "label": 0, "statement": "The city of Hohhot is in China."}
+{"group": 58, "label": 1, "statement": "The city of Hohhot is in Indonesia."}
+{"group": 59, "label": 0, "statement": "The city of Malacca is in Malaysia."}
+{"group": 59, "label": 1, "statement": "The city of Malacca is in China."}
+{"group": 60, "label": 0, "statement": "The city of Busan is in South Korea."}
+{"group": 60, "label": 1, "statement": "The city of Busan is in Brazil."}
+{"group": 61, "label": 0, "statement": "The city of Seongnam-si is in South Korea."}
+{"group": 61, "label": 1, "statement": "The city of Seongnam-si is in Russia."}
+{"group": 62, "label": 0, "statement": "The city of Matsuyama is in Japan."}
+{"group": 62, "label": 1, "statement": "The city of Matsuyama is in Burkina Faso."}
+{"group": 63, "label": 0, "statement": "The city of Suwon is in South Korea."}
+{"group": 63, "label": 1, "statement": "The city of Suwon is in Russia."}
+{"group": 64, "label": 0, "statement": "The city of Incheon is in South Korea."}
+{"group": 64, "label": 1, "statement": "The city of Incheon is in India."}
+{"group": 65, "label": 0, "statement": "The city of Hwaseong-si is in South Korea."}
+{"group": 65, "label": 1, "statement": "The city of Hwaseong-si is in Brazil."}
+{"group": 66, "label": 0, "statement": "The city of Changwon is in South Korea."}
+{"group": 66, "label": 1, "statement": "The city of Changwon is in Indonesia."}
+{"group": 67, "label": 0, "statement": "The city of Bamako is in Mali."}
+{"group": 67, "label": 1, "statement": "The city of Bamako is in India."}
+{"group": 68, "label": 0, "statement": "The city of Acapulco de Juarez is in Mexico."}
+{"group": 68, "label": 1, "statement": "The city of Acapulco de Juarez is in Morocco."}
+{"group": 69, "label": 0, "statement": "The city of Mosul is in Iraq."}
+{"group": 69, "label": 1, "statement": "The city of Mosul is in China."}
+{"group": 70, "label": 0, "statement": "The city of Basrah is in Iraq."}
+{"group": 70, "label": 1, "statement": "The city of Basrah is in China."}
+{"group": 71, "label": 0, "statement": "The city of Qom is in Iran."}
+{"group": 71, "label": 1, "statement": "The city of Qom is in Vietnam."}
+{"group": 72, "label": 0, "statement": "The city of Torreon is in Mexico."}
+{"group": 72, "label": 1, "statement": "The city of Torreon is in India."}
+{"group": 73, "label": 0, "statement": "The city of Beira is in Mozambique."}
+{"group": 73, "label": 1, "statement": "The city of Beira is in India."}
+{"group": 74, "label": 0, "statement": "The city of Naucalpan de Juarez is in Mexico."}
+{"group": 74, "label": 1, "statement": "The city of Naucalpan de Juarez is in Honduras."}
+{"group": 75, "label": 0, "statement": "The city of Dehra Dun is in India."}
+{"group": 75, "label": 1, "statement": "The city of Dehra Dun is in China."}
+{"group": 76, "label": 0, "statement": "The city of Bhubaneswar is in India."}
+{"group": 76, "label": 1, "statement": "The city of Bhubaneswar is in China."}
+{"group": 77, "label": 0, "statement": "The city of Ahvaz is in Iran."}
+{"group": 77, "label": 1, "statement": "The city of Ahvaz is in China."}
+{"group": 78, "label": 0, "statement": "The city of Kumasi is in Ghana."}
+{"group": 78, "label": 1, "statement": "The city of Kumasi is in India."}
+{"group": 79, "label": 0, "statement": "The city of Palembang is in Indonesia."}
+{"group": 79, "label": 1, "statement": "The city of Palembang is in Brazil."}
+{"group": 80, "label": 0, "statement": "The city of Novokuznetsk is in Russia."}
+{"group": 80, "label": 1, "statement": "The city of Novokuznetsk is in China."}
+{"group": 81, "label": 0, "statement": "The city of Izmir is in Turkey."}
+{"group": 81, "label": 1, "statement": "The city of Izmir is in Iran."}
+{"group": 82, "label": 0, "statement": "The city of Lahore is in Pakistan."}
+{"group": 82, "label": 1, "statement": "The city of Lahore is in China."}
+{"group": 83, "label": 0, "statement": "The city of Zhenjiang is in China."}
+{"group": 83, "label": 1, "statement": "The city of Zhenjiang is in Germany."}
+{"group": 84, "label": 0, "statement": "The city of Zhaotong is in China."}
+{"group": 84, "label": 1, "statement": "The city of Zhaotong is in Iraq."}
+{"group": 85, "label": 0, "statement": "The city of Weifang is in China."}
+{"group": 85, "label": 1, "statement": "The city of Weifang is in Indonesia."}
+{"group": 86, "label": 0, "statement": "The city of Tianjin is in China."}
+{"group": 86, "label": 1, "statement": "The city of Tianjin is in Bangladesh."}
+{"group": 87, "label": 0, "statement": "The city of Shaoxing is in China."}
+{"group": 87, "label": 1, "statement": "The city of Shaoxing is in the Philippines."}
+{"group": 88, "label": 0, "statement": "The city of Hangzhou is in China."}
+{"group": 88, "label": 1, "statement": "The city of Hangzhou is in Russia."}
+{"group": 89, "label": 0, "statement": "The city of Mudanjiang is in China."}
+{"group": 89, "label": 1, "statement": "The city of Mudanjiang is in Turkey."}
+{"group": 90, "label": 0, "statement": "The city of Anshan is in China."}
+{"group": 90, "label": 1, "statement": "The city of Anshan is in Cameroon."}
+{"group": 91, "label": 0, "statement": "The city of Porto Velho is in Brazil."}
+{"group": 91, "label": 1, "statement": "The city of Porto Velho is in Algeria."}
+{"group": 92, "label": 0, "statement": "The city of N'Djamena is in Chad."}
+{"group": 92, "label": 1, "statement": "The city of N'Djamena is in China."}
+{"group": 93, "label": 0, "statement": "The city of Kayseri is in Turkey."}
+{"group": 93, "label": 1, "statement": "The city of Kayseri is in Iraq."}
+{"group": 94, "label": 0, "statement": "The city of Marseille is in France."}
+{"group": 94, "label": 1, "statement": "The city of Marseille is in Russia."}
+{"group": 95, "label": 0, "statement": "The city of Lyon is in France."}
+{"group": 95, "label": 1, "statement": "The city of Lyon is in Canada."}
+{"group": 96, "label": 0, "statement": "The city of Suez is in Egypt."}
+{"group": 96, "label": 1, "statement": "The city of Suez is in Brazil."}
+{"group": 97, "label": 0, "statement": "The city of Giza is in Egypt."}
+{"group": 97, "label": 1, "statement": "The city of Giza is in India."}
+{"group": 98, "label": 0, "statement": "The city of Naberezhnyye Chelny is in Russia."}
+{"group": 98, "label": 1, "statement": "The city of Naberezhnyye Chelny is in Brazil."}
+{"group": 99, "label": 0, "statement": "The city of Mukalla is in Yemen."}
+{"group": 99, "label": 1, "statement": "The city of Mukalla is in Iran."}
+{"group": 100, "label": 0, "statement": "The city of Harare is in Zimbabwe."}
+{"group": 100, "label": 1, "statement": "The city of Harare is in Turkey."}
+{"group": 101, "label": 0, "statement": "The city of Sevastopol is in Ukraine."}
+{"group": 101, "label": 1, "statement": "The city of Sevastopol is in Pakistan."}
+{"group": 102, "label": 0, "statement": "The city of Lipetsk is in Russia."}
+{"group": 102, "label": 1, "statement": "The city of Lipetsk is in China."}
+{"group": 103, "label": 0, "statement": "The city of Istanbul is in Turkey."}
+{"group": 103, "label": 1, "statement": "The city of Istanbul is in Ghana."}
+{"group": 104, "label": 0, "statement": "The city of Callao is in Peru."}
+{"group": 104, "label": 1, "statement": "The city of Callao is in Myanmar."}
+{"group": 105, "label": 0, "statement": "The city of Cebu City is in the Philippines."}
+{"group": 105, "label": 1, "statement": "The city of Cebu City is in China."}
+{"group": 106, "label": 0, "statement": "The city of Tashkent is in Uzbekistan."}
+{"group": 106, "label": 1, "statement": "The city of Tashkent is in Mexico."}
+{"group": 107, "label": 0, "statement": "The city of Maturin is in Venezuela."}
+{"group": 107, "label": 1, "statement": "The city of Maturin is in Saudi Arabia."}
+{"group": 108, "label": 0, "statement": "The city of Hanoi is in Vietnam."}
+{"group": 108, "label": 1, "statement": "The city of Hanoi is in Poland."}
+{"group": 109, "label": 0, "statement": "The city of Xuzhou is in China."}
+{"group": 109, "label": 1, "statement": "The city of Xuzhou is in Mexico."}
+{"group": 110, "label": 0, "statement": "The city of Cucuta is in Colombia."}
+{"group": 110, "label": 1, "statement": "The city of Cucuta is in India."}
+{"group": 111, "label": 0, "statement": "The city of Santo Domingo Oeste is in the Dominican Republic."}
+{"group": 111, "label": 1, "statement": "The city of Santo Domingo Oeste is in Zambia."}
+{"group": 112, "label": 0, "statement": "The city of Tangshan is in China."}
+{"group": 112, "label": 1, "statement": "The city of Tangshan is in India."}
+{"group": 113, "label": 0, "statement": "The city of Neijiang is in China."}
+{"group": 113, "label": 1, "statement": "The city of Neijiang is in Ghana."}
+{"group": 114, "label": 0, "statement": "The city of Linfen is in China."}
+{"group": 114, "label": 1, "statement": "The city of Linfen is in India."}
+{"group": 115, "label": 0, "statement": "The city of Yiwu is in China."}
+{"group": 115, "label": 1, "statement": "The city of Yiwu is in India."}
+{"group": 116, "label": 0, "statement": "The city of Qiqihar is in China."}
+{"group": 116, "label": 1, "statement": "The city of Qiqihar is in India."}
+{"group": 117, "label": 0, "statement": "The city of Baotou is in China."}
+{"group": 117, "label": 1, "statement": "The city of Baotou is in Japan."}
+{"group": 118, "label": 0, "statement": "The city of Aparecida de Goiania is in Brazil."}
+{"group": 118, "label": 1, "statement": "The city of Aparecida de Goiania is in China."}
+{"group": 119, "label": 0, "statement": "The city of Kinshasa is in the Democratic Republic of the Congo."}
+{"group": 119, "label": 1, "statement": "The city of Kinshasa is in Brazil."}
+{"group": 120, "label": 0, "statement": "The city of Ciudad Nezahualcoyotl is in Mexico."}
+{"group": 120, "label": 1, "statement": "The city of Ciudad Nezahualcoyotl is in Senegal."}
+{"group": 121, "label": 0, "statement": "The city of Mexicali is in Mexico."}
+{"group": 121, "label": 1, "statement": "The city of Mexicali is in South Africa."}
+{"group": 122, "label": 0, "statement": "The city of Ciudad Juarez is in Mexico."}
+{"group": 122, "label": 1, "statement": "The city of Ciudad Juarez is in India."}
+{"group": 123, "label": 0, "statement": "The city of Kampung Baru Subang is in Malaysia."}
+{"group": 123, "label": 1, "statement": "The city of Kampung Baru Subang is in the Philippines."}
+{"group": 124, "label": 0, "statement": "The city of Subang Jaya is in Malaysia."}
+{"group": 124, "label": 1, "statement": "The city of Subang Jaya is in Germany."}
+{"group": 125, "label": 0, "statement": "The city of Maputo is in Mozambique."}
+{"group": 125, "label": 1, "statement": "The city of Maputo is in Japan."}
+{"group": 126, "label": 0, "statement": "The city of Kumamoto is in Japan."}
+{"group": 126, "label": 1, "statement": "The city of Kumamoto is in China."}
+{"group": 127, "label": 0, "statement": "The city of Daegu is in South Korea."}
+{"group": 127, "label": 1, "statement": "The city of Daegu is in the United States."}
+{"group": 128, "label": 0, "statement": "The city of Vilnius is in Lithuania."}
+{"group": 128, "label": 1, "statement": "The city of Vilnius is in China."}
+{"group": 129, "label": 0, "statement": "The city of Ranchi is in India."}
+{"group": 129, "label": 1, "statement": "The city of Ranchi is in Venezuela."}
+{"group": 130, "label": 0, "statement": "The city of Jalandhar is in India."}
+{"group": 130, "label": 1, "statement": "The city of Jalandhar is in Iraq."}
+{"group": 131, "label": 0, "statement": "The city of Bhayandar is in India."}
+{"group": 131, "label": 1, "statement": "The city of Bhayandar is in China."}
+{"group": 132, "label": 0, "statement": "The city of Bareilly is in India."}
+{"group": 132, "label": 1, "statement": "The city of Bareilly is in Mozambique."}
+{"group": 133, "label": 0, "statement": "The city of Santo Domingo Este is in the Dominican Republic."}
+{"group": 133, "label": 1, "statement": "The city of Santo Domingo Este is in India."}
+{"group": 134, "label": 0, "statement": "The city of Al Fayyum is in Egypt."}
+{"group": 134, "label": 1, "statement": "The city of Al Fayyum is in Chile."}
+{"group": 135, "label": 0, "statement": "The city of Rizhao is in China."}
+{"group": 135, "label": 1, "statement": "The city of Rizhao is in Iraq."}
+{"group": 136, "label": 0, "statement": "The city of Mianzhu, Deyang, Sichuan is in China."}
+{"group": 136, "label": 1, "statement": "The city of Mianzhu, Deyang, Sichuan is in India."}
+{"group": 137, "label": 0, "statement": "The city of Jabalpur is in India."}
+{"group": 137, "label": 1, "statement": "The city of Jabalpur is in Ukraine."}
+{"group": 138, "label": 0, "statement": "The city of Bilimora is in India."}
+{"group": 138, "label": 1, "statement": "The city of Bilimora is in Uzbekistan."}
+{"group": 139, "label": 0, "statement": "The city of Accra is in Ghana."}
+{"group": 139, "label": 1, "statement": "The city of Accra is in China."}
+{"group": 140, "label": 0, "statement": "The city of Bogor is in Indonesia."}
+{"group": 140, "label": 1, "statement": "The city of Bogor is in South Korea."}
+{"group": 141, "label": 0, "statement": "The city of Nyala is in Sudan."}
+{"group": 141, "label": 1, "statement": "The city of Nyala is in Mozambique."}
+{"group": 142, "label": 0, "statement": "The city of Eskisehir is in Turkey."}
+{"group": 142, "label": 1, "statement": "The city of Eskisehir is in China."}
+{"group": 143, "label": 0, "statement": "The city of Antalya is in Turkey."}
+{"group": 143, "label": 1, "statement": "The city of Antalya is in Germany."}
+{"group": 144, "label": 0, "statement": "The city of Dnipro is in Ukraine."}
+{"group": 144, "label": 1, "statement": "The city of Dnipro is in Russia."}
+{"group": 145, "label": 0, "statement": "The city of Khabarovsk is in Russia."}
+{"group": 145, "label": 1, "statement": "The city of Khabarovsk is in Saudi Arabia."}
+{"group": 146, "label": 0, "statement": "The city of Irkutsk is in Russia."}
+{"group": 146, "label": 1, "statement": "The city of Irkutsk is in Morocco."}
+{"group": 147, "label": 0, "statement": "The city of Libreville is in Gabon."}
+{"group": 147, "label": 1, "statement": "The city of Libreville is in the United States."}
+{"group": 148, "label": 0, "statement": "The city of Santiago de los Caballeros is in the Dominican Republic."}
+{"group": 148, "label": 1, "statement": "The city of Santiago de los Caballeros is in India."}
+{"group": 149, "label": 0, "statement": "The city of Algiers is in Algeria."}
+{"group": 149, "label": 1, "statement": "The city of Algiers is in China."}
+{"group": 150, "label": 0, "statement": "The city of Nashik is in India."}
+{"group": 150, "label": 1, "statement": "The city of Nashik is in China."}
+{"group": 151, "label": 0, "statement": "The city of Karol Bagh is in India."}
+{"group": 151, "label": 1, "statement": "The city of Karol Bagh is in Syria."}
+{"group": 152, "label": 0, "statement": "The city of Orumiyeh is in Iran."}
+{"group": 152, "label": 1, "statement": "The city of Orumiyeh is in Saudi Arabia."}
+{"group": 153, "label": 0, "statement": "The city of Zahedan is in Iran."}
+{"group": 153, "label": 1, "statement": "The city of Zahedan is in Nicaragua."}
+{"group": 154, "label": 0, "statement": "The city of Xuchang is in China."}
+{"group": 154, "label": 1, "statement": "The city of Xuchang is in Japan."}
+{"group": 155, "label": 0, "statement": "The city of Changde is in China."}
+{"group": 155, "label": 1, "statement": "The city of Changde is in Mexico."}
+{"group": 156, "label": 0, "statement": "The city of Shaoguan is in China."}
+{"group": 156, "label": 1, "statement": "The city of Shaoguan is in Pakistan."}
+{"group": 157, "label": 0, "statement": "The city of Jilin is in China."}
+{"group": 157, "label": 1, "statement": "The city of Jilin is in the United States."}
+{"group": 158, "label": 0, "statement": "The city of Manaus is in Brazil."}
+{"group": 158, "label": 1, "statement": "The city of Manaus is in Turkey."}
+{"group": 159, "label": 0, "statement": "The city of Jaboatao dos Guararapes is in Brazil."}
+{"group": 159, "label": 1, "statement": "The city of Jaboatao dos Guararapes is in Myanmar."}
+{"group": 160, "label": 0, "statement": "The city of Kakamega is in Kenya."}
+{"group": 160, "label": 1, "statement": "The city of Kakamega is in Russia."}
+{"group": 161, "label": 0, "statement": "The city of Agadir is in Morocco."}
+{"group": 161, "label": 1, "statement": "The city of Agadir is in Bangladesh."}
+{"group": 162, "label": 0, "statement": "The city of Ulan Bator is in Mongolia."}
+{"group": 162, "label": 1, "statement": "The city of Ulan Bator is in Ukraine."}
+{"group": 163, "label": 0, "statement": "The city of Muscat is in Oman."}
+{"group": 163, "label": 1, "statement": "The city of Muscat is in Bangladesh."}
+{"group": 164, "label": 0, "statement": "The city of Paranaque City is in the Philippines."}
+{"group": 164, "label": 1, "statement": "The city of Paranaque City is in India."}
+{"group": 165, "label": 0, "statement": "The city of Rahim Yar Khan is in Pakistan."}
+{"group": 165, "label": 1, "statement": "The city of Rahim Yar Khan is in Lithuania."}
+{"group": 166, "label": 0, "statement": "The city of Balikpapan is in Indonesia."}
+{"group": 166, "label": 1, "statement": "The city of Balikpapan is in Japan."}
+{"group": 167, "label": 0, "statement": "The city of Guarulhos is in Brazil."}
+{"group": 167, "label": 1, "statement": "The city of Guarulhos is in China."}
+{"group": 168, "label": 0, "statement": "The city of Volgograd is in Russia."}
+{"group": 168, "label": 1, "statement": "The city of Volgograd is in Nigeria."}
+{"group": 169, "label": 0, "statement": "The city of Ulyanovsk is in Russia."}
+{"group": 169, "label": 1, "statement": "The city of Ulyanovsk is in Ukraine."}
+{"group": 170, "label": 0, "statement": "The city of Kota Bharu is in Malaysia."}
+{"group": 170, "label": 1, "statement": "The city of Kota Bharu is in Norway."}
+{"group": 171, "label": 0, "statement": "The city of Sarajevo is in Bosnia and Herzegovina."}
+{"group": 171, "label": 1, "statement": "The city of Sarajevo is in South Africa."}
+{"group": 172, "label": 0, "statement": "The city of Maceio is in Brazil."}
+{"group": 172, "label": 1, "statement": "The city of Maceio is in China."}
+{"group": 173, "label": 0, "statement": "The city of Joao Pessoa is in Brazil."}
+{"group": 173, "label": 1, "statement": "The city of Joao Pessoa is in South Africa."}
+{"group": 174, "label": 0, "statement": "The city of Shangqiu is in China."}
+{"group": 174, "label": 1, "statement": "The city of Shangqiu is in South Korea."}
+{"group": 175, "label": 0, "statement": "The city of Zhangye is in China."}
+{"group": 175, "label": 1, "statement": "The city of Zhangye is in Venezuela."}
+{"group": 176, "label": 0, "statement": "The city of Xuanzhou is in China."}
+{"group": 176, "label": 1, "statement": "The city of Xuanzhou is in Tanzania."}
+{"group": 177, "label": 0, "statement": "The city of Wuhan is in China."}
+{"group": 177, "label": 1, "statement": "The city of Wuhan is in Egypt."}
+{"group": 178, "label": 0, "statement": "The city of Nanchang is in China."}
+{"group": 178, "label": 1, "statement": "The city of Nanchang is in Malaysia."}
+{"group": 179, "label": 0, "statement": "The city of Luancheng is in China."}
+{"group": 179, "label": 1, "statement": "The city of Luancheng is in Brazil."}
+{"group": 180, "label": 0, "statement": "The city of Liuzhou is in China."}
+{"group": 180, "label": 1, "statement": "The city of Liuzhou is in Russia."}
+{"group": 181, "label": 0, "statement": "The city of Guangyuan is in China."}
+{"group": 181, "label": 1, "statement": "The city of Guangyuan is in Mexico."}
+{"group": 182, "label": 0, "statement": "The city of Bijie is in China."}
+{"group": 182, "label": 1, "statement": "The city of Bijie is in Indonesia."}
+{"group": 183, "label": 0, "statement": "The city of Zhoushan is in China."}
+{"group": 183, "label": 1, "statement": "The city of Zhoushan is in the Philippines."}
+{"group": 184, "label": 0, "statement": "The city of Hegang is in China."}
+{"group": 184, "label": 1, "statement": "The city of Hegang is in Russia."}
+{"group": 185, "label": 0, "statement": "The city of E'zhou is in China."}
+{"group": 185, "label": 1, "statement": "The city of E'zhou is in Malaysia."}
+{"group": 186, "label": 0, "statement": "The city of Campos dos Goytacazes is in Brazil."}
+{"group": 186, "label": 1, "statement": "The city of Campos dos Goytacazes is in Vietnam."}
+{"group": 187, "label": 0, "statement": "The city of Bucharest is in Romania."}
+{"group": 187, "label": 1, "statement": "The city of Bucharest is in Italy."}
+{"group": 188, "label": 0, "statement": "The city of Ansan-si is in South Korea."}
+{"group": 188, "label": 1, "statement": "The city of Ansan-si is in Canada."}
+{"group": 189, "label": 0, "statement": "The city of Casablanca is in Morocco."}
+{"group": 189, "label": 1, "statement": "The city of Casablanca is in Russia."}
+{"group": 190, "label": 0, "statement": "The city of Coyoacan is in Mexico."}
+{"group": 190, "label": 1, "statement": "The city of Coyoacan is in Kenya."}
+{"group": 191, "label": 0, "statement": "The city of Oyo is in Nigeria."}
+{"group": 191, "label": 1, "statement": "The city of Oyo is in China."}
+{"group": 192, "label": 0, "statement": "The city of Pasig City is in the Philippines."}
+{"group": 192, "label": 1, "statement": "The city of Pasig City is in Morocco."}
+{"group": 193, "label": 0, "statement": "The city of Kano is in Nigeria."}
+{"group": 193, "label": 1, "statement": "The city of Kano is in China."}
+{"group": 194, "label": 0, "statement": "The city of Bahawalpur is in Pakistan."}
+{"group": 194, "label": 1, "statement": "The city of Bahawalpur is in China."}
+{"group": 195, "label": 0, "statement": "The city of New Kingston is in Jamaica."}
+{"group": 195, "label": 1, "statement": "The city of New Kingston is in South Africa."}
+{"group": 196, "label": 0, "statement": "The city of Pyongyang is in North Korea."}
+{"group": 196, "label": 1, "statement": "The city of Pyongyang is in Argentina."}
+{"group": 197, "label": 0, "statement": "The city of Shymkent is in Kazakhstan."}
+{"group": 197, "label": 1, "statement": "The city of Shymkent is in China."}
+{"group": 198, "label": 0, "statement": "The city of Tlalpan is in Mexico."}
+{"group": 198, "label": 1, "statement": "The city of Tlalpan is in Egypt."}
+{"group": 199, "label": 0, "statement": "The city of Kemerovo is in Russia."}
+{"group": 199, "label": 1, "statement": "The city of Kemerovo is in India."}
+{"group": 200, "label": 0, "statement": "The city of Zaporizhzhya is in Ukraine."}
+{"group": 200, "label": 1, "statement": "The city of Zaporizhzhya is in South Korea."}
+{"group": 201, "label": 0, "statement": "The city of Iztapalapa is in Mexico."}
+{"group": 201, "label": 1, "statement": "The city of Iztapalapa is in Yemen."}
+{"group": 202, "label": 0, "statement": "The city of Aguascalientes is in Mexico."}
+{"group": 202, "label": 1, "statement": "The city of Aguascalientes is in China."}
+{"group": 203, "label": 0, "statement": "The city of Kuala Lumpur is in Malaysia."}
+{"group": 203, "label": 1, "statement": "The city of Kuala Lumpur is in Oman."}
+{"group": 204, "label": 0, "statement": "The city of Warri is in Nigeria."}
+{"group": 204, "label": 1, "statement": "The city of Warri is in China."}
+{"group": 205, "label": 0, "statement": "The city of Peshawar is in Pakistan."}
+{"group": 205, "label": 1, "statement": "The city of Peshawar is in Tanzania."}
+{"group": 206, "label": 0, "statement": "The city of Kagoshima is in Japan."}
+{"group": 206, "label": 1, "statement": "The city of Kagoshima is in India."}
+{"group": 207, "label": 0, "statement": "The city of Hamamatsu is in Japan."}
+{"group": 207, "label": 1, "statement": "The city of Hamamatsu is in Russia."}
+{"group": 208, "label": 0, "statement": "The city of Cheongju-si is in South Korea."}
+{"group": 208, "label": 1, "statement": "The city of Cheongju-si is in India."}
+{"group": 209, "label": 0, "statement": "The city of Ghaziabad is in India."}
+{"group": 209, "label": 1, "statement": "The city of Ghaziabad is in South Korea."}
+{"group": 210, "label": 0, "statement": "The city of Cochin is in India."}
+{"group": 210, "label": 1, "statement": "The city of Cochin is in China."}
+{"group": 211, "label": 0, "statement": "The city of Ahmedabad is in India."}
+{"group": 211, "label": 1, "statement": "The city of Ahmedabad is in China."}
+{"group": 212, "label": 0, "statement": "The city of Sulaymaniyah is in Iraq."}
+{"group": 212, "label": 1, "statement": "The city of Sulaymaniyah is in Turkey."}
+{"group": 213, "label": 0, "statement": "The city of Hamadan is in Iran."}
+{"group": 213, "label": 1, "statement": "The city of Hamadan is in Pakistan."}
+{"group": 214, "label": 0, "statement": "The city of Omsk is in Russia."}
+{"group": 214, "label": 1, "statement": "The city of Omsk is in China."}
+{"group": 215, "label": 0, "statement": "The city of Ta'if is in Saudi Arabia."}
+{"group": 215, "label": 1, "statement": "The city of Ta'if is in Venezuela."}
+{"group": 216, "label": 0, "statement": "The city of Stockholm is in Sweden."}
+{"group": 216, "label": 1, "statement": "The city of Stockholm is in Russia."}
+{"group": 217, "label": 0, "statement": "The city of Siliguri is in India."}
+{"group": 217, "label": 1, "statement": "The city of Siliguri is in China."}
+{"group": 218, "label": 0, "statement": "The city of Baghdad is in Iraq."}
+{"group": 218, "label": 1, "statement": "The city of Baghdad is in China."}
+{"group": 219, "label": 0, "statement": "The city of Al Basrah al Qadimah is in Iraq."}
+{"group": 219, "label": 1, "statement": "The city of Al Basrah al Qadimah is in China."}
+{"group": 220, "label": 0, "statement": "The city of Krakow is in Poland."}
+{"group": 220, "label": 1, "statement": "The city of Krakow is in South Korea."}
+{"group": 221, "label": 0, "statement": "The city of Tolyatti is in Russia."}
+{"group": 221, "label": 1, "statement": "The city of Tolyatti is in Ghana."}
+{"group": 222, "label": 0, "statement": "The city of Bandar Lampung is in Indonesia."}
+{"group": 222, "label": 1, "statement": "The city of Bandar Lampung is in South Africa."}
+{"group": 223, "label": 0, "statement": "The city of Tucson is in the United States."}
+{"group": 223, "label": 1, "statement": "The city of Tucson is in Canada."}
+{"group": 224, "label": 0, "statement": "The city of Can Tho is in Vietnam."}
+{"group": 224, "label": 1, "statement": "The city of Can Tho is in Venezuela."}
+{"group": 225, "label": 0, "statement": "The city of Bouake is in C\u00f4te d'Ivoire."}
+{"group": 225, "label": 1, "statement": "The city of Bouake is in China."}
+{"group": 226, "label": 0, "statement": "The city of Abobo is in C\u00f4te d'Ivoire."}
+{"group": 226, "label": 1, "statement": "The city of Abobo is in India."}
+{"group": 227, "label": 0, "statement": "The city of Shihezi is in China."}
+{"group": 227, "label": 1, "statement": "The city of Shihezi is in Russia."}
+{"group": 228, "label": 0, "statement": "The city of Yunfu is in China."}
+{"group": 228, "label": 1, "statement": "The city of Yunfu is in Honduras."}
+{"group": 229, "label": 0, "statement": "The city of Xiangtan is in China."}
+{"group": 229, "label": 1, "statement": "The city of Xiangtan is in Brazil."}
+{"group": 230, "label": 0, "statement": "The city of Qionghai is in China."}
+{"group": 230, "label": 1, "statement": "The city of Qionghai is in Ecuador."}
+{"group": 231, "label": 0, "statement": "The city of Chuzhou is in China."}
+{"group": 231, "label": 1, "statement": "The city of Chuzhou is in India."}
+{"group": 232, "label": 0, "statement": "The city of Taiz is in Yemen."}
+{"group": 232, "label": 1, "statement": "The city of Taiz is in Burkina Faso."}
+{"group": 233, "label": 0, "statement": "The city of Tembisa is in South Africa."}
+{"group": 233, "label": 1, "statement": "The city of Tembisa is in the Philippines."}
+{"group": 234, "label": 0, "statement": "The city of Puente Alto is in Chile."}
+{"group": 234, "label": 1, "statement": "The city of Puente Alto is in China."}
+{"group": 235, "label": 0, "statement": "The city of Zhumadian is in China."}
+{"group": 235, "label": 1, "statement": "The city of Zhumadian is in Brazil."}
+{"group": 236, "label": 0, "statement": "The city of Zhengzhou is in China."}
+{"group": 236, "label": 1, "statement": "The city of Zhengzhou is in Brazil."}
+{"group": 237, "label": 0, "statement": "The city of Ya'an is in China."}
+{"group": 237, "label": 1, "statement": "The city of Ya'an is in Morocco."}
+{"group": 238, "label": 0, "statement": "The city of Xianyang is in China."}
+{"group": 238, "label": 1, "statement": "The city of Xianyang is in Russia."}
+{"group": 239, "label": 0, "statement": "The city of Weihai is in China."}
+{"group": 239, "label": 1, "statement": "The city of Weihai is in Russia."}
+{"group": 240, "label": 0, "statement": "The city of Pingdingshan is in China."}
+{"group": 240, "label": 1, "statement": "The city of Pingdingshan is in South Africa."}
+{"group": 241, "label": 0, "statement": "The city of Bengbu is in China."}
+{"group": 241, "label": 1, "statement": "The city of Bengbu is in India."}
+{"group": 242, "label": 0, "statement": "The city of Zhangjiakou is in China."}
+{"group": 242, "label": 1, "statement": "The city of Zhangjiakou is in India."}
+{"group": 243, "label": 0, "statement": "The city of Mississauga is in Canada."}
+{"group": 243, "label": 1, "statement": "The city of Mississauga is in India."}
+{"group": 244, "label": 0, "statement": "The city of Yerevan is in Armenia."}
+{"group": 244, "label": 1, "statement": "The city of Yerevan is in Bangladesh."}
+{"group": 245, "label": 0, "statement": "The city of Albuquerque is in the United States."}
+{"group": 245, "label": 1, "statement": "The city of Albuquerque is in Egypt."}
+{"group": 246, "label": 0, "statement": "The city of New South Memphis is in the United States."}
+{"group": 246, "label": 1, "statement": "The city of New South Memphis is in China."}
+{"group": 247, "label": 0, "statement": "The city of Calgary is in Canada."}
+{"group": 247, "label": 1, "statement": "The city of Calgary is in India."}
+{"group": 248, "label": 0, "statement": "The city of Kisangani is in the Democratic Republic of the Congo."}
+{"group": 248, "label": 1, "statement": "The city of Kisangani is in China."}
+{"group": 249, "label": 0, "statement": "The city of Bobo-Dioulasso is in Burkina Faso."}
+{"group": 249, "label": 1, "statement": "The city of Bobo-Dioulasso is in China."}
+{"group": 250, "label": 0, "statement": "The city of Sao Jose dos Campos is in Brazil."}
+{"group": 250, "label": 1, "statement": "The city of Sao Jose dos Campos is in Iran."}
+{"group": 251, "label": 0, "statement": "The city of Florianopolis is in Brazil."}
+{"group": 251, "label": 1, "statement": "The city of Florianopolis is in Ecuador."}
+{"group": 252, "label": 0, "statement": "The city of Cuiaba is in Brazil."}
+{"group": 252, "label": 1, "statement": "The city of Cuiaba is in Latvia."}
+{"group": 253, "label": 0, "statement": "The city of Chattogram is in Bangladesh."}
+{"group": 253, "label": 1, "statement": "The city of Chattogram is in China."}
+{"group": 254, "label": 0, "statement": "The city of Nanjing is in China."}
+{"group": 254, "label": 1, "statement": "The city of Nanjing is in Germany."}
+{"group": 255, "label": 0, "statement": "The city of Kaifeng is in China."}
+{"group": 255, "label": 1, "statement": "The city of Kaifeng is in Mexico."}
+{"group": 256, "label": 0, "statement": "The city of Heze is in China."}
+{"group": 256, "label": 1, "statement": "The city of Heze is in Yemen."}
+{"group": 257, "label": 0, "statement": "The city of Sendai is in Japan."}
+{"group": 257, "label": 1, "statement": "The city of Sendai is in Brazil."}
+{"group": 258, "label": 0, "statement": "The city of Jeonju is in South Korea."}
+{"group": 258, "label": 1, "statement": "The city of Jeonju is in the United States."}
+{"group": 259, "label": 0, "statement": "The city of Almaty is in Kazakhstan."}
+{"group": 259, "label": 1, "statement": "The city of Almaty is in Iraq."}
+{"group": 260, "label": 0, "statement": "The city of Pimpri is in India."}
+{"group": 260, "label": 1, "statement": "The city of Pimpri is in China."}
+{"group": 261, "label": 0, "statement": "The city of Navi Mumbai is in India."}
+{"group": 261, "label": 1, "statement": "The city of Navi Mumbai is in China."}
+{"group": 262, "label": 0, "statement": "The city of Novosibirsk is in Russia."}
+{"group": 262, "label": 1, "statement": "The city of Novosibirsk is in the Philippines."}
+{"group": 263, "label": 0, "statement": "The city of Goeteborg is in Sweden."}
+{"group": 263, "label": 1, "statement": "The city of Goeteborg is in South Korea."}
+{"group": 264, "label": 0, "statement": "The city of Bursa is in Turkey."}
+{"group": 264, "label": 1, "statement": "The city of Bursa is in Bosnia and Herzegovina."}
+{"group": 265, "label": 0, "statement": "The city of Dar es Salaam is in Tanzania."}
+{"group": 265, "label": 1, "statement": "The city of Dar es Salaam is in Italy."}
+{"group": 266, "label": 0, "statement": "The city of Mbuji-Mayi is in the Democratic Republic of the Congo."}
+{"group": 266, "label": 1, "statement": "The city of Mbuji-Mayi is in Pakistan."}
+{"group": 267, "label": 0, "statement": "The city of Goiania is in Brazil."}
+{"group": 267, "label": 1, "statement": "The city of Goiania is in China."}
+{"group": 268, "label": 0, "statement": "The city of Yaroslavl is in Russia."}
+{"group": 268, "label": 1, "statement": "The city of Yaroslavl is in India."}
+{"group": 269, "label": 0, "statement": "The city of Kigali is in Rwanda."}
+{"group": 269, "label": 1, "statement": "The city of Kigali is in Indonesia."}
+{"group": 270, "label": 0, "statement": "The city of Diyarbakir is in Turkey."}
+{"group": 270, "label": 1, "statement": "The city of Diyarbakir is in Colombia."}
+{"group": 271, "label": 0, "statement": "The city of Tyumen is in Russia."}
+{"group": 271, "label": 1, "statement": "The city of Tyumen is in Mexico."}
+{"group": 272, "label": 0, "statement": "The city of Orenburg is in Russia."}
+{"group": 272, "label": 1, "statement": "The city of Orenburg is in Malaysia."}
+{"group": 273, "label": 0, "statement": "The city of Osaka is in Japan."}
+{"group": 273, "label": 1, "statement": "The city of Osaka is in India."}
+{"group": 274, "label": 0, "statement": "The city of Sapporo is in Japan."}
+{"group": 274, "label": 1, "statement": "The city of Sapporo is in Mexico."}
+{"group": 275, "label": 0, "statement": "The city of Kimhae is in South Korea."}
+{"group": 275, "label": 1, "statement": "The city of Kimhae is in Senegal."}
+{"group": 276, "label": 0, "statement": "The city of Cheonan is in South Korea."}
+{"group": 276, "label": 1, "statement": "The city of Cheonan is in Myanmar."}
+{"group": 277, "label": 0, "statement": "The city of San Luis Potosi is in Mexico."}
+{"group": 277, "label": 1, "statement": "The city of San Luis Potosi is in the Democratic Republic of the Congo."}
+{"group": 278, "label": 0, "statement": "The city of Culiacan is in Mexico."}
+{"group": 278, "label": 1, "statement": "The city of Culiacan is in China."}
+{"group": 279, "label": 0, "statement": "The city of Kaduna is in Nigeria."}
+{"group": 279, "label": 1, "statement": "The city of Kaduna is in Turkey."}
+{"group": 280, "label": 0, "statement": "The city of General Santos is in the Philippines."}
+{"group": 280, "label": 1, "statement": "The city of General Santos is in China."}
+{"group": 281, "label": 0, "statement": "The city of Ebute Ikorodu is in Nigeria."}
+{"group": 281, "label": 1, "statement": "The city of Ebute Ikorodu is in China."}
+{"group": 282, "label": 0, "statement": "The city of Benin City is in Nigeria."}
+{"group": 282, "label": 1, "statement": "The city of Benin City is in China."}
+{"group": 283, "label": 0, "statement": "The city of Kanpur is in India."}
+{"group": 283, "label": 1, "statement": "The city of Kanpur is in Brazil."}
+{"group": 284, "label": 0, "statement": "The city of Indore is in India."}
+{"group": 284, "label": 1, "statement": "The city of Indore is in Turkey."}
+{"group": 285, "label": 0, "statement": "The city of Zunyi is in China."}
+{"group": 285, "label": 1, "statement": "The city of Zunyi is in Senegal."}
+{"group": 286, "label": 0, "statement": "The city of Zhanjiang is in China."}
+{"group": 286, "label": 1, "statement": "The city of Zhanjiang is in India."}
+{"group": 287, "label": 0, "statement": "The city of Wenzhou is in China."}
+{"group": 287, "label": 1, "statement": "The city of Wenzhou is in Moldova."}
+{"group": 288, "label": 0, "statement": "The city of Luohe is in China."}
+{"group": 288, "label": 1, "statement": "The city of Luohe is in Brazil."}
+{"group": 289, "label": 0, "statement": "The city of Kunming is in China."}
+{"group": 289, "label": 1, "statement": "The city of Kunming is in Mexico."}
+{"group": 290, "label": 0, "statement": "The city of Cixi is in China."}
+{"group": 290, "label": 1, "statement": "The city of Cixi is in Indonesia."}
+{"group": 291, "label": 0, "statement": "The city of Hanzhong is in China."}
+{"group": 291, "label": 1, "statement": "The city of Hanzhong is in Iran."}
+{"group": 292, "label": 0, "statement": "The city of Guangzhou is in China."}
+{"group": 292, "label": 1, "statement": "The city of Guangzhou is in India."}
+{"group": 293, "label": 0, "statement": "The city of Munich is in Germany."}
+{"group": 293, "label": 1, "statement": "The city of Munich is in China."}
+{"group": 294, "label": 0, "statement": "The city of Pekanbaru is in Indonesia."}
+{"group": 294, "label": 1, "statement": "The city of Pekanbaru is in India."}
+{"group": 295, "label": 0, "statement": "The city of Malang is in Indonesia."}
+{"group": 295, "label": 1, "statement": "The city of Malang is in Morocco."}
+{"group": 296, "label": 0, "statement": "The city of Douala is in Cameroon."}
+{"group": 296, "label": 1, "statement": "The city of Douala is in Russia."}
+{"group": 297, "label": 0, "statement": "The city of Kashgar is in China."}
+{"group": 297, "label": 1, "statement": "The city of Kashgar is in Turkey."}
+{"group": 298, "label": 0, "statement": "The city of Zibo is in China."}
+{"group": 298, "label": 1, "statement": "The city of Zibo is in India."}
+{"group": 299, "label": 0, "statement": "The city of Tianshui is in China."}
+{"group": 299, "label": 1, "statement": "The city of Tianshui is in Canada."}
+{"group": 300, "label": 0, "statement": "The city of Laibin is in China."}
+{"group": 300, "label": 1, "statement": "The city of Laibin is in Ethiopia."}
+{"group": 301, "label": 0, "statement": "The city of Deyang is in China."}
+{"group": 301, "label": 1, "statement": "The city of Deyang is in Japan."}
+{"group": 302, "label": 0, "statement": "The city of Teresina is in Brazil."}
+{"group": 302, "label": 1, "statement": "The city of Teresina is in Vietnam."}
+{"group": 303, "label": 0, "statement": "The city of Leipzig is in Germany."}
+{"group": 303, "label": 1, "statement": "The city of Leipzig is in Russia."}
+{"group": 304, "label": 0, "statement": "The city of Duesseldorf is in Germany."}
+{"group": 304, "label": 1, "statement": "The city of Duesseldorf is in Mexico."}
+{"group": 305, "label": 0, "statement": "The city of Zagreb is in Croatia."}
+{"group": 305, "label": 1, "statement": "The city of Zagreb is in Japan."}
+{"group": 306, "label": 0, "statement": "The city of Hannover is in Germany."}
+{"group": 306, "label": 1, "statement": "The city of Hannover is in China."}
+{"group": 307, "label": 0, "statement": "The city of Penza is in Russia."}
+{"group": 307, "label": 1, "statement": "The city of Penza is in China."}
+{"group": 308, "label": 0, "statement": "The city of Matola is in Mozambique."}
+{"group": 308, "label": 1, "statement": "The city of Matola is in India."}
+{"group": 309, "label": 0, "statement": "The city of Enugu is in Nigeria."}
+{"group": 309, "label": 1, "statement": "The city of Enugu is in South Korea."}
+{"group": 310, "label": 0, "statement": "The city of Shizuoka is in Japan."}
+{"group": 310, "label": 1, "statement": "The city of Shizuoka is in China."}
+{"group": 311, "label": 0, "statement": "The city of Himeji is in Japan."}
+{"group": 311, "label": 1, "statement": "The city of Himeji is in the Democratic Republic of the Congo."}
+{"group": 312, "label": 0, "statement": "The city of Hamhung is in North Korea."}
+{"group": 312, "label": 1, "statement": "The city of Hamhung is in China."}
+{"group": 313, "label": 0, "statement": "The city of Seoul is in South Korea."}
+{"group": 313, "label": 1, "statement": "The city of Seoul is in Nicaragua."}
+{"group": 314, "label": 0, "statement": "The city of Meerut is in India."}
+{"group": 314, "label": 1, "statement": "The city of Meerut is in Nigeria."}
+{"group": 315, "label": 0, "statement": "The city of Hubli is in India."}
+{"group": 315, "label": 1, "statement": "The city of Hubli is in Indonesia."}
+{"group": 316, "label": 0, "statement": "The city of Dubai is in the United Arab Emirates."}
+{"group": 316, "label": 1, "statement": "The city of Dubai is in the United States."}
+{"group": 317, "label": 0, "statement": "The city of Astrakhan is in Russia."}
+{"group": 317, "label": 1, "statement": "The city of Astrakhan is in India."}
+{"group": 318, "label": 0, "statement": "The city of Aleppo is in Syria."}
+{"group": 318, "label": 1, "statement": "The city of Aleppo is in China."}
+{"group": 319, "label": 0, "statement": "The city of Ar Raqqah is in Syria."}
+{"group": 319, "label": 1, "statement": "The city of Ar Raqqah is in Iraq."}
+{"group": 320, "label": 0, "statement": "The city of Saint Petersburg is in Russia."}
+{"group": 320, "label": 1, "statement": "The city of Saint Petersburg is in Canada."}
+{"group": 321, "label": 0, "statement": "The city of Johannesburg is in South Africa."}
+{"group": 321, "label": 1, "statement": "The city of Johannesburg is in China."}
+{"group": 322, "label": 0, "statement": "The city of Wanzhou is in China."}
+{"group": 322, "label": 1, "statement": "The city of Wanzhou is in India."}
+{"group": 323, "label": 0, "statement": "The city of Anyang is in China."}
+{"group": 323, "label": 1, "statement": "The city of Anyang is in Kuwait."}
+{"group": 324, "label": 0, "statement": "The city of Qinhuangdao is in China."}
+{"group": 324, "label": 1, "statement": "The city of Qinhuangdao is in Eritrea."}
+{"group": 325, "label": 0, "statement": "The city of Meizhou is in China."}
+{"group": 325, "label": 1, "statement": "The city of Meizhou is in Russia."}
+{"group": 326, "label": 0, "statement": "The city of Yangjiang is in China."}
+{"group": 326, "label": 1, "statement": "The city of Yangjiang is in Indonesia."}
+{"group": 327, "label": 0, "statement": "The city of Beijing is in China."}
+{"group": 327, "label": 1, "statement": "The city of Beijing is in Ghana."}
+{"group": 328, "label": 0, "statement": "The city of Shah Alam is in Malaysia."}
+{"group": 328, "label": 1, "statement": "The city of Shah Alam is in China."}
+{"group": 329, "label": 0, "statement": "The city of Vadodara is in India."}
+{"group": 329, "label": 1, "statement": "The city of Vadodara is in Russia."}
+{"group": 330, "label": 0, "statement": "The city of Sangli is in India."}
+{"group": 330, "label": 1, "statement": "The city of Sangli is in Japan."}
+{"group": 331, "label": 0, "statement": "The city of Guwahati is in India."}
+{"group": 331, "label": 1, "statement": "The city of Guwahati is in China."}
+{"group": 332, "label": 0, "statement": "The city of Prayagraj is in India."}
+{"group": 332, "label": 1, "statement": "The city of Prayagraj is in Kenya."}
+{"group": 333, "label": 0, "statement": "The city of Aligarh is in India."}
+{"group": 333, "label": 1, "statement": "The city of Aligarh is in China."}
+{"group": 334, "label": 0, "statement": "The city of Kermanshah is in Iran."}
+{"group": 334, "label": 1, "statement": "The city of Kermanshah is in China."}
+{"group": 335, "label": 0, "statement": "The city of Semarang is in Indonesia."}
+{"group": 335, "label": 1, "statement": "The city of Semarang is in Saudi Arabia."}
+{"group": 336, "label": 0, "statement": "The city of Khulna is in Bangladesh."}
+{"group": 336, "label": 1, "statement": "The city of Khulna is in Japan."}
+{"group": 337, "label": 0, "statement": "The city of Korla is in China."}
+{"group": 337, "label": 1, "statement": "The city of Korla is in Azerbaijan."}
+{"group": 338, "label": 0, "statement": "The city of Zaozhuang is in China."}
+{"group": 338, "label": 1, "statement": "The city of Zaozhuang is in Belarus."}
+{"group": 339, "label": 0, "statement": "The city of Xiamen is in China."}
+{"group": 339, "label": 1, "statement": "The city of Xiamen is in Pakistan."}
+{"group": 340, "label": 0, "statement": "The city of Shenzhen is in China."}
+{"group": 340, "label": 1, "statement": "The city of Shenzhen is in Mexico."}
+{"group": 341, "label": 0, "statement": "The city of Maoming is in China."}
+{"group": 341, "label": 1, "statement": "The city of Maoming is in Brazil."}
+{"group": 342, "label": 0, "statement": "The city of Anshun is in China."}
+{"group": 342, "label": 1, "statement": "The city of Anshun is in Brazil."}
+{"group": 343, "label": 0, "statement": "The city of Siping is in China."}
+{"group": 343, "label": 1, "statement": "The city of Siping is in Iraq."}
+{"group": 344, "label": 0, "statement": "The city of Shuangyashan is in China."}
+{"group": 344, "label": 1, "statement": "The city of Shuangyashan is in India."}
+{"group": 345, "label": 0, "statement": "The city of Jiamusi is in China."}
+{"group": 345, "label": 1, "statement": "The city of Jiamusi is in Germany."}
+{"group": 346, "label": 0, "statement": "The city of Minsk is in Belarus."}
+{"group": 346, "label": 1, "statement": "The city of Minsk is in South Korea."}
+{"group": 347, "label": 0, "statement": "The city of Lubumbashi is in the Democratic Republic of the Congo."}
+{"group": 347, "label": 1, "statement": "The city of Lubumbashi is in India."}
+{"group": 348, "label": 0, "statement": "The city of San Miguel de Tucuman is in Argentina."}
+{"group": 348, "label": 1, "statement": "The city of San Miguel de Tucuman is in China."}
+{"group": 349, "label": 0, "statement": "The city of Cotonou is in Benin."}
+{"group": 349, "label": 1, "statement": "The city of Cotonou is in China."}
+{"group": 350, "label": 0, "statement": "The city of Comilla is in Bangladesh."}
+{"group": 350, "label": 1, "statement": "The city of Comilla is in China."}
+{"group": 351, "label": 0, "statement": "The city of Sao Bernardo do Campo is in Brazil."}
+{"group": 351, "label": 1, "statement": "The city of Sao Bernardo do Campo is in Zambia."}
+{"group": 352, "label": 0, "statement": "The city of Feira de Santana is in Brazil."}
+{"group": 352, "label": 1, "statement": "The city of Feira de Santana is in China."}
+{"group": 353, "label": 0, "statement": "The city of Porto Alegre is in Brazil."}
+{"group": 353, "label": 1, "statement": "The city of Porto Alegre is in Belarus."}
+{"group": 354, "label": 0, "statement": "The city of Juiz de Fora is in Brazil."}
+{"group": 354, "label": 1, "statement": "The city of Juiz de Fora is in India."}
+{"group": 355, "label": 0, "statement": "The city of Nagoya is in Japan."}
+{"group": 355, "label": 1, "statement": "The city of Nagoya is in China."}
+{"group": 356, "label": 0, "statement": "The city of Al Ahmadi is in Kuwait."}
+{"group": 356, "label": 1, "statement": "The city of Al Ahmadi is in Japan."}
+{"group": 357, "label": 0, "statement": "The city of Beirut is in Lebanon."}
+{"group": 357, "label": 1, "statement": "The city of Beirut is in Algeria."}
+{"group": 358, "label": 0, "statement": "The city of Lilongwe is in Malawi."}
+{"group": 358, "label": 1, "statement": "The city of Lilongwe is in Turkey."}
+{"group": 359, "label": 0, "statement": "The city of Ecatepec de Morelos is in Mexico."}
+{"group": 359, "label": 1, "statement": "The city of Ecatepec de Morelos is in India."}
+{"group": 360, "label": 0, "statement": "The city of Cancun is in Mexico."}
+{"group": 360, "label": 1, "statement": "The city of Cancun is in Myanmar."}
+{"group": 361, "label": 0, "statement": "The city of Isfahan is in Iran."}
+{"group": 361, "label": 1, "statement": "The city of Isfahan is in China."}
+{"group": 362, "label": 0, "statement": "The city of Conakry is in Guinea."}
+{"group": 362, "label": 1, "statement": "The city of Conakry is in Belarus."}
+{"group": 363, "label": 0, "statement": "The city of Petaling Jaya is in Malaysia."}
+{"group": 363, "label": 1, "statement": "The city of Petaling Jaya is in Bosnia and Herzegovina."}
+{"group": 364, "label": 0, "statement": "The city of Zaria is in Nigeria."}
+{"group": 364, "label": 1, "statement": "The city of Zaria is in India."}
+{"group": 365, "label": 0, "statement": "The city of Cimahi is in Indonesia."}
+{"group": 365, "label": 1, "statement": "The city of Cimahi is in Germany."}
+{"group": 366, "label": 0, "statement": "The city of Arequipa is in Peru."}
+{"group": 366, "label": 1, "statement": "The city of Arequipa is in India."}
+{"group": 367, "label": 0, "statement": "The city of Multan is in Pakistan."}
+{"group": 367, "label": 1, "statement": "The city of Multan is in Ecuador."}
+{"group": 368, "label": 0, "statement": "The city of Bahcelievler is in Turkey."}
+{"group": 368, "label": 1, "statement": "The city of Bahcelievler is in Germany."}
+{"group": 369, "label": 0, "statement": "The city of Saratov is in Russia."}
+{"group": 369, "label": 1, "statement": "The city of Saratov is in Indonesia."}
+{"group": 370, "label": 0, "statement": "The city of Kharkiv is in Ukraine."}
+{"group": 370, "label": 1, "statement": "The city of Kharkiv is in Moldova."}
+{"group": 371, "label": 0, "statement": "The city of Malatya is in Turkey."}
+{"group": 371, "label": 1, "statement": "The city of Malatya is in Russia."}
+{"group": 372, "label": 0, "statement": "The city of Lviv is in Ukraine."}
+{"group": 372, "label": 1, "statement": "The city of Lviv is in China."}
+{"group": 373, "label": 0, "statement": "The city of Kyiv is in Ukraine."}
+{"group": 373, "label": 1, "statement": "The city of Kyiv is in Russia."}
+{"group": 374, "label": 0, "statement": "The city of Kitakyushu is in Japan."}
+{"group": 374, "label": 1, "statement": "The city of Kitakyushu is in Yemen."}
+{"group": 375, "label": 0, "statement": "The city of Onitsha is in Nigeria."}
+{"group": 375, "label": 1, "statement": "The city of Onitsha is in China."}
+{"group": 376, "label": 0, "statement": "The city of Anyang-si is in South Korea."}
+{"group": 376, "label": 1, "statement": "The city of Anyang-si is in Iraq."}
+{"group": 377, "label": 0, "statement": "The city of Kobe is in Japan."}
+{"group": 377, "label": 1, "statement": "The city of Kobe is in China."}
+{"group": 378, "label": 0, "statement": "The city of Chiclayo is in Peru."}
+{"group": 378, "label": 1, "statement": "The city of Chiclayo is in Venezuela."}
+{"group": 379, "label": 0, "statement": "The city of Phnom Penh is in Cambodia."}
+{"group": 379, "label": 1, "statement": "The city of Phnom Penh is in Senegal."}
+{"group": 380, "label": 0, "statement": "The city of Nouakchott is in Mauritania."}
+{"group": 380, "label": 1, "statement": "The city of Nouakchott is in China."}
+{"group": 381, "label": 0, "statement": "The city of Vijayawada is in India."}
+{"group": 381, "label": 1, "statement": "The city of Vijayawada is in Nigeria."}
+{"group": 382, "label": 0, "statement": "The city of Theni is in India."}
+{"group": 382, "label": 1, "statement": "The city of Theni is in Nigeria."}
+{"group": 383, "label": 0, "statement": "The city of Narela is in India."}
+{"group": 383, "label": 1, "statement": "The city of Narela is in Turkey."}
+{"group": 384, "label": 0, "statement": "The city of Quetta is in Pakistan."}
+{"group": 384, "label": 1, "statement": "The city of Quetta is in Kenya."}
+{"group": 385, "label": 0, "statement": "The city of Chennai is in India."}
+{"group": 385, "label": 1, "statement": "The city of Chennai is in China."}
+{"group": 386, "label": 0, "statement": "The city of Changshu is in China."}
+{"group": 386, "label": 1, "statement": "The city of Changshu is in the Philippines."}
+{"group": 387, "label": 0, "statement": "The city of Tehran is in Iran."}
+{"group": 387, "label": 1, "statement": "The city of Tehran is in Niger."}
+{"group": 388, "label": 0, "statement": "The city of Bayannur is in China."}
+{"group": 388, "label": 1, "statement": "The city of Bayannur is in Russia."}
+{"group": 389, "label": 0, "statement": "The city of Barranquilla is in Colombia."}
+{"group": 389, "label": 1, "statement": "The city of Barranquilla is in Pakistan."}
+{"group": 390, "label": 0, "statement": "The city of Budapest is in Hungary."}
+{"group": 390, "label": 1, "statement": "The city of Budapest is in Iraq."}
+{"group": 391, "label": 0, "statement": "The city of Pontianak is in Indonesia."}
+{"group": 391, "label": 1, "statement": "The city of Pontianak is in India."}
+{"group": 392, "label": 0, "statement": "The city of Recife is in Brazil."}
+{"group": 392, "label": 1, "statement": "The city of Recife is in North Korea."}
+{"group": 393, "label": 0, "statement": "The city of Contagem is in Brazil."}
+{"group": 393, "label": 1, "statement": "The city of Contagem is in Indonesia."}
+{"group": 394, "label": 0, "statement": "The city of Port Said is in Egypt."}
+{"group": 394, "label": 1, "statement": "The city of Port Said is in China."}
+{"group": 395, "label": 0, "statement": "The city of Asyut is in Egypt."}
+{"group": 395, "label": 1, "statement": "The city of Asyut is in Japan."}
+{"group": 396, "label": 0, "statement": "The city of Ziyang is in China."}
+{"group": 396, "label": 1, "statement": "The city of Ziyang is in Belgium."}
+{"group": 397, "label": 0, "statement": "The city of Yinchuan is in China."}
+{"group": 397, "label": 1, "statement": "The city of Yinchuan is in Bangladesh."}
+{"group": 398, "label": 0, "statement": "The city of Zhangjiagang is in China."}
+{"group": 398, "label": 1, "statement": "The city of Zhangjiagang is in Brazil."}
+{"group": 399, "label": 0, "statement": "The city of Shanghai is in China."}
+{"group": 399, "label": 1, "statement": "The city of Shanghai is in Mexico."}
+{"group": 400, "label": 0, "statement": "The city of Jieyang is in China."}
+{"group": 400, "label": 1, "statement": "The city of Jieyang is in the Philippines."}
+{"group": 401, "label": 0, "statement": "The city of Longyan is in China."}
+{"group": 401, "label": 1, "statement": "The city of Longyan is in Benin."}
+{"group": 402, "label": 0, "statement": "The city of Dandong is in China."}
+{"group": 402, "label": 1, "statement": "The city of Dandong is in Niger."}
+{"group": 403, "label": 0, "statement": "The city of Frankfurt am Main is in Germany."}
+{"group": 403, "label": 1, "statement": "The city of Frankfurt am Main is in Vietnam."}
+{"group": 404, "label": 0, "statement": "The city of Lusaka is in Zambia."}
+{"group": 404, "label": 1, "statement": "The city of Lusaka is in Poland."}
+{"group": 405, "label": 0, "statement": "The city of Aden is in Yemen."}
+{"group": 405, "label": 1, "statement": "The city of Aden is in Japan."}
+{"group": 406, "label": 0, "statement": "The city of Jaboatao is in Brazil."}
+{"group": 406, "label": 1, "statement": "The city of Jaboatao is in Syria."}
+{"group": 407, "label": 0, "statement": "The city of Aracaju is in Brazil."}
+{"group": 407, "label": 1, "statement": "The city of Aracaju is in Russia."}
+{"group": 408, "label": 0, "statement": "The city of Londrina is in Brazil."}
+{"group": 408, "label": 1, "statement": "The city of Londrina is in India."}
+{"group": 409, "label": 0, "statement": "The city of Zigong is in China."}
+{"group": 409, "label": 1, "statement": "The city of Zigong is in Turkey."}
+{"group": 410, "label": 0, "statement": "The city of Kunshan is in China."}
+{"group": 410, "label": 1, "statement": "The city of Kunshan is in Russia."}
+{"group": 411, "label": 0, "statement": "The city of Yichang is in China."}
+{"group": 411, "label": 1, "statement": "The city of Yichang is in Japan."}
+{"group": 412, "label": 0, "statement": "The city of Sanming is in China."}
+{"group": 412, "label": 1, "statement": "The city of Sanming is in Bulgaria."}
+{"group": 413, "label": 0, "statement": "The city of Guang'an is in China."}
+{"group": 413, "label": 1, "statement": "The city of Guang'an is in Germany."}
+{"group": 414, "label": 0, "statement": "The city of Ma'anshan is in China."}
+{"group": 414, "label": 1, "statement": "The city of Ma'anshan is in India."}
+{"group": 415, "label": 0, "statement": "The city of Dongying is in China."}
+{"group": 415, "label": 1, "statement": "The city of Dongying is in India."}
+{"group": 416, "label": 0, "statement": "The city of Fushun is in China."}
+{"group": 416, "label": 1, "statement": "The city of Fushun is in Mexico."}
+{"group": 417, "label": 0, "statement": "The city of Rajshahi is in Bangladesh."}
+{"group": 417, "label": 1, "statement": "The city of Rajshahi is in Russia."}
+{"group": 418, "label": 0, "statement": "The city of Rangpur is in Bangladesh."}
+{"group": 418, "label": 1, "statement": "The city of Rangpur is in Russia."}
+{"group": 419, "label": 0, "statement": "The city of Dortmund is in Germany."}
+{"group": 419, "label": 1, "statement": "The city of Dortmund is in India."}
+{"group": 420, "label": 0, "statement": "The city of Detroit is in the United States."}
+{"group": 420, "label": 1, "statement": "The city of Detroit is in China."}
+{"group": 421, "label": 0, "statement": "The city of Latakia is in Syria."}
+{"group": 421, "label": 1, "statement": "The city of Latakia is in Somalia."}
+{"group": 422, "label": 0, "statement": "The city of Ashgabat is in Turkmenistan."}
+{"group": 422, "label": 1, "statement": "The city of Ashgabat is in Bangladesh."}
+{"group": 423, "label": 0, "statement": "The city of Maracaibo is in Venezuela."}
+{"group": 423, "label": 1, "statement": "The city of Maracaibo is in Russia."}
+{"group": 424, "label": 0, "statement": "The city of Erode is in India."}
+{"group": 424, "label": 1, "statement": "The city of Erode is in China."}
+{"group": 425, "label": 0, "statement": "The city of Mumbai is in India."}
+{"group": 425, "label": 1, "statement": "The city of Mumbai is in China."}
+{"group": 426, "label": 0, "statement": "The city of Nasiriyah is in Iraq."}
+{"group": 426, "label": 1, "statement": "The city of Nasiriyah is in Rwanda."}
+{"group": 427, "label": 0, "statement": "The city of Kahriz is in Iran."}
+{"group": 427, "label": 1, "statement": "The city of Kahriz is in Uzbekistan."}
+{"group": 428, "label": 0, "statement": "The city of Surakarta is in Indonesia."}
+{"group": 428, "label": 1, "statement": "The city of Surakarta is in India."}
+{"group": 429, "label": 0, "statement": "The city of Banjarmasin is in Indonesia."}
+{"group": 429, "label": 1, "statement": "The city of Banjarmasin is in South Korea."}
+{"group": 430, "label": 0, "statement": "The city of Vladivostok is in Russia."}
+{"group": 430, "label": 1, "statement": "The city of Vladivostok is in Romania."}
+{"group": 431, "label": 0, "statement": "The city of Adana is in Turkey."}
+{"group": 431, "label": 1, "statement": "The city of Adana is in Togo."}
+{"group": 432, "label": 0, "statement": "The city of Voronezh is in Russia."}
+{"group": 432, "label": 1, "statement": "The city of Voronezh is in Romania."}
+{"group": 433, "label": 0, "statement": "The city of Namangan is in Uzbekistan."}
+{"group": 433, "label": 1, "statement": "The city of Namangan is in India."}
+{"group": 434, "label": 0, "statement": "The city of Ordos is in China."}
+{"group": 434, "label": 1, "statement": "The city of Ordos is in Brazil."}
+{"group": 435, "label": 0, "statement": "The city of Moradabad is in India."}
+{"group": 435, "label": 1, "statement": "The city of Moradabad is in China."}
+{"group": 436, "label": 0, "statement": "The city of Bengaluru is in India."}
+{"group": 436, "label": 1, "statement": "The city of Bengaluru is in China."}
+{"group": 437, "label": 0, "statement": "The city of Shivaji Nagar is in India."}
+{"group": 437, "label": 1, "statement": "The city of Shivaji Nagar is in China."}
+{"group": 438, "label": 0, "statement": "The city of Turin is in Italy."}
+{"group": 438, "label": 1, "statement": "The city of Turin is in China."}
+{"group": 439, "label": 0, "statement": "The city of Okayama is in Japan."}
+{"group": 439, "label": 1, "statement": "The city of Okayama is in Russia."}
+{"group": 440, "label": 0, "statement": "The city of Daejeon is in South Korea."}
+{"group": 440, "label": 1, "statement": "The city of Daejeon is in India."}
+{"group": 441, "label": 0, "statement": "The city of Battagram is in Pakistan."}
+{"group": 441, "label": 1, "statement": "The city of Battagram is in Tanzania."}
+{"group": 442, "label": 0, "statement": "The city of Yaounde is in Cameroon."}
+{"group": 442, "label": 1, "statement": "The city of Yaounde is in China."}
+{"group": 443, "label": 0, "statement": "The city of Zhangzhou is in China."}
+{"group": 443, "label": 1, "statement": "The city of Zhangzhou is in Nicaragua."}
+{"group": 444, "label": 0, "statement": "The city of Yangquan is in China."}
+{"group": 444, "label": 1, "statement": "The city of Yangquan is in Hungary."}
+{"group": 445, "label": 0, "statement": "The city of Sanya is in China."}
+{"group": 445, "label": 1, "statement": "The city of Sanya is in India."}
+{"group": 446, "label": 0, "statement": "The city of Foshan is in China."}
+{"group": 446, "label": 1, "statement": "The city of Foshan is in Mozambique."}
+{"group": 447, "label": 0, "statement": "The city of Sharjah is in the United Arab Emirates."}
+{"group": 447, "label": 1, "statement": "The city of Sharjah is in China."}
+{"group": 448, "label": 0, "statement": "The city of Al Ain City is in the United Arab Emirates."}
+{"group": 448, "label": 1, "statement": "The city of Al Ain City is in India."}
+{"group": 449, "label": 0, "statement": "The city of Kalininskiy is in Russia."}
+{"group": 449, "label": 1, "statement": "The city of Kalininskiy is in Japan."}
+{"group": 450, "label": 0, "statement": "The city of Mersin is in Turkey."}
+{"group": 450, "label": 1, "statement": "The city of Mersin is in the United States."}
+{"group": 451, "label": 0, "statement": "The city of Guayaquil is in Ecuador."}
+{"group": 451, "label": 1, "statement": "The city of Guayaquil is in China."}
+{"group": 452, "label": 0, "statement": "The city of Tegucigalpa is in Honduras."}
+{"group": 452, "label": 1, "statement": "The city of Tegucigalpa is in China."}
+{"group": 453, "label": 0, "statement": "The city of Koeln is in Germany."}
+{"group": 453, "label": 1, "statement": "The city of Koeln is in Nigeria."}
+{"group": 454, "label": 0, "statement": "The city of Nuernberg is in Germany."}
+{"group": 454, "label": 1, "statement": "The city of Nuernberg is in China."}
+{"group": 455, "label": 0, "statement": "The city of Zarqa is in Jordan."}
+{"group": 455, "label": 1, "statement": "The city of Zarqa is in India."}
+{"group": 456, "label": 0, "statement": "The city of Riga is in Latvia."}
+{"group": 456, "label": 1, "statement": "The city of Riga is in Japan."}
+{"group": 457, "label": 0, "statement": "The city of Nanded is in India."}
+{"group": 457, "label": 1, "statement": "The city of Nanded is in China."}
+{"group": 458, "label": 0, "statement": "The city of Gwalior is in India."}
+{"group": 458, "label": 1, "statement": "The city of Gwalior is in China."}
+{"group": 459, "label": 0, "statement": "The city of Dombivli is in India."}
+{"group": 459, "label": 1, "statement": "The city of Dombivli is in Mali."}
+{"group": 460, "label": 0, "statement": "The city of Kallakurichi is in India."}
+{"group": 460, "label": 1, "statement": "The city of Kallakurichi is in Iraq."}
+{"group": 461, "label": 0, "statement": "The city of Bekasi is in Indonesia."}
+{"group": 461, "label": 1, "statement": "The city of Bekasi is in China."}
+{"group": 462, "label": 0, "statement": "The city of Johor Bahru is in Malaysia."}
+{"group": 462, "label": 1, "statement": "The city of Johor Bahru is in Cuba."}
+{"group": 463, "label": 0, "statement": "The city of Santa Maria Chimalhuacan is in Mexico."}
+{"group": 463, "label": 1, "statement": "The city of Santa Maria Chimalhuacan is in Saudi Arabia."}
+{"group": 464, "label": 0, "statement": "The city of Urumqi is in China."}
+{"group": 464, "label": 1, "statement": "The city of Urumqi is in Vietnam."}
+{"group": 465, "label": 0, "statement": "The city of Qingdao is in China."}
+{"group": 465, "label": 1, "statement": "The city of Qingdao is in India."}
+{"group": 466, "label": 0, "statement": "The city of Sofia is in Bulgaria."}
+{"group": 466, "label": 1, "statement": "The city of Sofia is in South Korea."}
+{"group": 467, "label": 0, "statement": "The city of Nova Iguacu is in Brazil."}
+{"group": 467, "label": 1, "statement": "The city of Nova Iguacu is in India."}
+{"group": 468, "label": 0, "statement": "The city of Abeokuta is in Nigeria."}
+{"group": 468, "label": 1, "statement": "The city of Abeokuta is in Mozambique."}
+{"group": 469, "label": 0, "statement": "The city of Amman is in Jordan."}
+{"group": 469, "label": 1, "statement": "The city of Amman is in Malaysia."}
+{"group": 470, "label": 0, "statement": "The city of Hachioji is in Japan."}
+{"group": 470, "label": 1, "statement": "The city of Hachioji is in Mexico."}
+{"group": 471, "label": 0, "statement": "The city of Fukuoka is in Japan."}
+{"group": 471, "label": 1, "statement": "The city of Fukuoka is in Senegal."}
+{"group": 472, "label": 0, "statement": "The city of Goyang-si is in South Korea."}
+{"group": 472, "label": 1, "statement": "The city of Goyang-si is in Russia."}
+{"group": 473, "label": 0, "statement": "The city of Meknes is in Morocco."}
+{"group": 473, "label": 1, "statement": "The city of Meknes is in China."}
+{"group": 474, "label": 0, "statement": "The city of Antananarivo is in Madagascar."}
+{"group": 474, "label": 1, "statement": "The city of Antananarivo is in Germany."}
+{"group": 475, "label": 0, "statement": "The city of Kalyan is in India."}
+{"group": 475, "label": 1, "statement": "The city of Kalyan is in South Korea."}
+{"group": 476, "label": 0, "statement": "The city of Jaipur is in India."}
+{"group": 476, "label": 1, "statement": "The city of Jaipur is in China."}
+{"group": 477, "label": 0, "statement": "The city of Guntur is in India."}
+{"group": 477, "label": 1, "statement": "The city of Guntur is in China."}
+{"group": 478, "label": 0, "statement": "The city of Bhilai is in India."}
+{"group": 478, "label": 1, "statement": "The city of Bhilai is in Venezuela."}
+{"group": 479, "label": 0, "statement": "The city of Bhavnagar is in India."}
+{"group": 479, "label": 1, "statement": "The city of Bhavnagar is in Japan."}
+{"group": 480, "label": 0, "statement": "The city of Amravati is in India."}
+{"group": 480, "label": 1, "statement": "The city of Amravati is in China."}
+{"group": 481, "label": 0, "statement": "The city of Shiraz is in Iran."}
+{"group": 481, "label": 1, "statement": "The city of Shiraz is in China."}
+{"group": 482, "label": 0, "statement": "The city of Lome is in Togo."}
+{"group": 482, "label": 1, "statement": "The city of Lome is in Yemen."}
+{"group": 483, "label": 0, "statement": "The city of Erzurum is in Turkey."}
+{"group": 483, "label": 1, "statement": "The city of Erzurum is in the Democratic Republic of the Congo."}
+{"group": 484, "label": 0, "statement": "The city of Seattle is in the United States."}
+{"group": 484, "label": 1, "statement": "The city of Seattle is in Yemen."}
+{"group": 485, "label": 0, "statement": "The city of Barquisimeto is in Venezuela."}
+{"group": 485, "label": 1, "statement": "The city of Barquisimeto is in Poland."}
+{"group": 486, "label": 0, "statement": "The city of Kryvyy Rih is in Ukraine."}
+{"group": 486, "label": 1, "statement": "The city of Kryvyy Rih is in China."}
+{"group": 487, "label": 0, "statement": "The city of Krasnoyarsk is in Russia."}
+{"group": 487, "label": 1, "statement": "The city of Krasnoyarsk is in India."}
+{"group": 488, "label": 0, "statement": "The city of Quzhou is in China."}
+{"group": 488, "label": 1, "statement": "The city of Quzhou is in Vietnam."}
+{"group": 489, "label": 0, "statement": "The city of Pingliang is in China."}
+{"group": 489, "label": 1, "statement": "The city of Pingliang is in Tanzania."}
+{"group": 490, "label": 0, "statement": "The city of Puning is in China."}
+{"group": 490, "label": 1, "statement": "The city of Puning is in India."}
+{"group": 491, "label": 0, "statement": "The city of Huzhou is in China."}
+{"group": 491, "label": 1, "statement": "The city of Huzhou is in Germany."}
+{"group": 492, "label": 0, "statement": "The city of Chizhou is in China."}
+{"group": 492, "label": 1, "statement": "The city of Chizhou is in the Republic of the Congo."}
+{"group": 493, "label": 0, "statement": "The city of Chengdu is in China."}
+{"group": 493, "label": 1, "statement": "The city of Chengdu is in South Korea."}
+{"group": 494, "label": 0, "statement": "The city of Cangzhou is in China."}
+{"group": 494, "label": 1, "statement": "The city of Cangzhou is in Germany."}
+{"group": 495, "label": 0, "statement": "The city of Samarinda is in Indonesia."}
+{"group": 495, "label": 1, "statement": "The city of Samarinda is in Iraq."}
+{"group": 496, "label": 0, "statement": "The city of Helsinki is in Finland."}
+{"group": 496, "label": 1, "statement": "The city of Helsinki is in Pakistan."}
+{"group": 497, "label": 0, "statement": "The city of Khabarovsk Vtoroy is in Russia."}
+{"group": 497, "label": 1, "statement": "The city of Khabarovsk Vtoroy is in China."}
+{"group": 498, "label": 0, "statement": "The city of Wroclaw is in Poland."}
+{"group": 498, "label": 1, "statement": "The city of Wroclaw is in Mexico."}
+{"group": 499, "label": 0, "statement": "The city of Oslo is in Norway."}
+{"group": 499, "label": 1, "statement": "The city of Oslo is in Venezuela."}
+{"group": 500, "label": 0, "statement": "The city of Caloocan City is in the Philippines."}
+{"group": 500, "label": 1, "statement": "The city of Caloocan City is in China."}
+{"group": 501, "label": 0, "statement": "The city of Ryazan' is in Russia."}
+{"group": 501, "label": 1, "statement": "The city of Ryazan' is in South Korea."}
+{"group": 502, "label": 0, "statement": "The city of Ciudad Guayana is in Venezuela."}
+{"group": 502, "label": 1, "statement": "The city of Ciudad Guayana is in South Africa."}
+{"group": 503, "label": 0, "statement": "The city of Ho Chi Minh City is in Vietnam."}
+{"group": 503, "label": 1, "statement": "The city of Ho Chi Minh City is in Gabon."}
+{"group": 504, "label": 0, "statement": "The city of Al Hudaydah is in Yemen."}
+{"group": 504, "label": 1, "statement": "The city of Al Hudaydah is in South Korea."}
+{"group": 505, "label": 0, "statement": "The city of Soweto is in South Africa."}
+{"group": 505, "label": 1, "statement": "The city of Soweto is in Gabon."}
+{"group": 506, "label": 0, "statement": "The city of Benoni is in South Africa."}
+{"group": 506, "label": 1, "statement": "The city of Benoni is in the Philippines."}
+{"group": 507, "label": 0, "statement": "The city of Wuzhou is in China."}
+{"group": 507, "label": 1, "statement": "The city of Wuzhou is in Syria."}
+{"group": 508, "label": 0, "statement": "The city of Wanxian is in China."}
+{"group": 508, "label": 1, "statement": "The city of Wanxian is in Algeria."}
+{"group": 509, "label": 0, "statement": "The city of Qinzhou is in China."}
+{"group": 509, "label": 1, "statement": "The city of Qinzhou is in India."}
+{"group": 510, "label": 0, "statement": "The city of Wuwei is in China."}
+{"group": 510, "label": 1, "statement": "The city of Wuwei is in India."}
+{"group": 511, "label": 0, "statement": "The city of Hefei is in China."}
+{"group": 511, "label": 1, "statement": "The city of Hefei is in Germany."}
+{"group": 512, "label": 0, "statement": "The city of Handan is in China."}
+{"group": 512, "label": 1, "statement": "The city of Handan is in Russia."}
+{"group": 513, "label": 0, "statement": "The city of Jiangyin is in China."}
+{"group": 513, "label": 1, "statement": "The city of Jiangyin is in Bulgaria."}
+{"group": 514, "label": 0, "statement": "The city of Brazzaville is in the Republic of the Congo."}
+{"group": 514, "label": 1, "statement": "The city of Brazzaville is in Nigeria."}
+{"group": 515, "label": 0, "statement": "The city of Sorocaba is in Brazil."}
+{"group": 515, "label": 1, "statement": "The city of Sorocaba is in Mexico."}
+{"group": 516, "label": 0, "statement": "The city of Aktobe is in Kazakhstan."}
+{"group": 516, "label": 1, "statement": "The city of Aktobe is in Afghanistan."}
+{"group": 517, "label": 0, "statement": "The city of Chisinau is in Moldova."}
+{"group": 517, "label": 1, "statement": "The city of Chisinau is in Germany."}
+{"group": 518, "label": 0, "statement": "The city of Tiruppur is in India."}
+{"group": 518, "label": 1, "statement": "The city of Tiruppur is in Japan."}
+{"group": 519, "label": 0, "statement": "The city of Kozhikode is in India."}
+{"group": 519, "label": 1, "statement": "The city of Kozhikode is in the United States."}
+{"group": 520, "label": 0, "statement": "The city of Asansol is in India."}
+{"group": 520, "label": 1, "statement": "The city of Asansol is in China."}
+{"group": 521, "label": 0, "statement": "The city of Suizhou is in China."}
+{"group": 521, "label": 1, "statement": "The city of Suizhou is in Japan."}
+{"group": 522, "label": 0, "statement": "The city of Jingmen is in China."}
+{"group": 522, "label": 1, "statement": "The city of Jingmen is in Japan."}
+{"group": 523, "label": 0, "statement": "The city of Huangshi is in China."}
+{"group": 523, "label": 1, "statement": "The city of Huangshi is in India."}
+{"group": 524, "label": 0, "statement": "The city of Huaibei is in China."}
+{"group": 524, "label": 1, "statement": "The city of Huaibei is in Brazil."}
+{"group": 525, "label": 0, "statement": "The city of Hebi is in China."}
+{"group": 525, "label": 1, "statement": "The city of Hebi is in Nigeria."}
+{"group": 526, "label": 0, "statement": "The city of Benxi is in China."}
+{"group": 526, "label": 1, "statement": "The city of Benxi is in Brazil."}
+{"group": 527, "label": 0, "statement": "The city of Fortaleza is in Brazil."}
+{"group": 527, "label": 1, "statement": "The city of Fortaleza is in Honduras."}
+{"group": 528, "label": 0, "statement": "The city of Antwerpen is in Belgium."}
+{"group": 528, "label": 1, "statement": "The city of Antwerpen is in Japan."}
+{"group": 529, "label": 0, "statement": "The city of Pikine is in Senegal."}
+{"group": 529, "label": 1, "statement": "The city of Pikine is in Pakistan."}
+{"group": 530, "label": 0, "statement": "The city of Dakar is in Senegal."}
+{"group": 530, "label": 1, "statement": "The city of Dakar is in India."}
+{"group": 531, "label": 0, "statement": "The city of Faisalabad is in Pakistan."}
+{"group": 531, "label": 1, "statement": "The city of Faisalabad is in India."}
+{"group": 532, "label": 0, "statement": "The city of Kyoto is in Japan."}
+{"group": 532, "label": 1, "statement": "The city of Kyoto is in China."}
+{"group": 533, "label": 0, "statement": "The city of Port Harcourt is in Nigeria."}
+{"group": 533, "label": 1, "statement": "The city of Port Harcourt is in Eritrea."}
+{"group": 534, "label": 0, "statement": "The city of Makhachkala is in Russia."}
+{"group": 534, "label": 1, "statement": "The city of Makhachkala is in Indonesia."}
+{"group": 535, "label": 0, "statement": "The city of Thiruvananthapuram is in India."}
+{"group": 535, "label": 1, "statement": "The city of Thiruvananthapuram is in Japan."}
+{"group": 536, "label": 0, "statement": "The city of Madurai is in India."}
+{"group": 536, "label": 1, "statement": "The city of Madurai is in Burundi."}
+{"group": 537, "label": 0, "statement": "The city of Abu Ghurayb is in Iraq."}
+{"group": 537, "label": 1, "statement": "The city of Abu Ghurayb is in Indonesia."}
+{"group": 538, "label": 0, "statement": "The city of Karaj is in Iran."}
+{"group": 538, "label": 1, "statement": "The city of Karaj is in India."}
+{"group": 539, "label": 0, "statement": "The city of Kampala is in Uganda."}
+{"group": 539, "label": 1, "statement": "The city of Kampala is in Turkey."}
+{"group": 540, "label": 0, "statement": "The city of Chicago is in the United States."}
+{"group": 540, "label": 1, "statement": "The city of Chicago is in Madagascar."}
+{"group": 541, "label": 0, "statement": "The city of Milwaukee is in the United States."}
+{"group": 541, "label": 1, "statement": "The city of Milwaukee is in China."}
+{"group": 542, "label": 0, "statement": "The city of Bloemfontein is in South Africa."}
+{"group": 542, "label": 1, "statement": "The city of Bloemfontein is in China."}
+{"group": 543, "label": 0, "statement": "The city of Uberlandia is in Brazil."}
+{"group": 543, "label": 1, "statement": "The city of Uberlandia is in India."}
+{"group": 544, "label": 0, "statement": "The city of Curitiba is in Brazil."}
+{"group": 544, "label": 1, "statement": "The city of Curitiba is in India."}
+{"group": 545, "label": 0, "statement": "The city of Rio de Janeiro is in Brazil."}
+{"group": 545, "label": 1, "statement": "The city of Rio de Janeiro is in Japan."}
+{"group": 546, "label": 0, "statement": "The city of Ribeirao Preto is in Brazil."}
+{"group": 546, "label": 1, "statement": "The city of Ribeirao Preto is in China."}
+{"group": 547, "label": 0, "statement": "The city of The Bronx is in the United States."}
+{"group": 547, "label": 1, "statement": "The city of The Bronx is in South Korea."}
+{"group": 548, "label": 0, "statement": "The city of Samarkand is in Uzbekistan."}
+{"group": 548, "label": 1, "statement": "The city of Samarkand is in China."}
+{"group": 549, "label": 0, "statement": "The city of Da Nang is in Vietnam."}
+{"group": 549, "label": 1, "statement": "The city of Da Nang is in China."}
+{"group": 550, "label": 0, "statement": "The city of Tomsk is in Russia."}
+{"group": 550, "label": 1, "statement": "The city of Tomsk is in Ghana."}
+{"group": 551, "label": 0, "statement": "The city of Najran is in Saudi Arabia."}
+{"group": 551, "label": 1, "statement": "The city of Najran is in India."}
+{"group": 552, "label": 0, "statement": "The city of Bangkok is in Thailand."}
+{"group": 552, "label": 1, "statement": "The city of Bangkok is in China."}
+{"group": 553, "label": 0, "statement": "The city of Oklahoma City is in the United States."}
+{"group": 553, "label": 1, "statement": "The city of Oklahoma City is in China."}
+{"group": 554, "label": 0, "statement": "The city of Izhevsk is in Russia."}
+{"group": 554, "label": 1, "statement": "The city of Izhevsk is in Nigeria."}
+{"group": 555, "label": 0, "statement": "The city of Madinat an Nasr is in Egypt."}
+{"group": 555, "label": 1, "statement": "The city of Madinat an Nasr is in India."}
+{"group": 556, "label": 0, "statement": "The city of Yibin is in China."}
+{"group": 556, "label": 1, "statement": "The city of Yibin is in Brazil."}
+{"group": 557, "label": 0, "statement": "The city of Sanmenxia is in China."}
+{"group": 557, "label": 1, "statement": "The city of Sanmenxia is in Brazil."}
+{"group": 558, "label": 0, "statement": "The city of Rui'an is in China."}
+{"group": 558, "label": 1, "statement": "The city of Rui'an is in Indonesia."}
+{"group": 559, "label": 0, "statement": "The city of Ningbo is in China."}
+{"group": 559, "label": 1, "statement": "The city of Ningbo is in South Korea."}
+{"group": 560, "label": 0, "statement": "The city of Jiujiang is in China."}
+{"group": 560, "label": 1, "statement": "The city of Jiujiang is in Indonesia."}
+{"group": 561, "label": 0, "statement": "The city of Jiaozuo is in China."}
+{"group": 561, "label": 1, "statement": "The city of Jiaozuo is in Bangladesh."}
+{"group": 562, "label": 0, "statement": "The city of Jiangmen is in China."}
+{"group": 562, "label": 1, "statement": "The city of Jiangmen is in South Korea."}
+{"group": 563, "label": 0, "statement": "The city of Huizhou is in China."}
+{"group": 563, "label": 1, "statement": "The city of Huizhou is in the United States."}
+{"group": 564, "label": 0, "statement": "The city of Harbin is in China."}
+{"group": 564, "label": 1, "statement": "The city of Harbin is in Russia."}
+{"group": 565, "label": 0, "statement": "The city of Herat is in Afghanistan."}
+{"group": 565, "label": 1, "statement": "The city of Herat is in China."}
+{"group": 566, "label": 0, "statement": "The city of Kleinzschocher is in Germany."}
+{"group": 566, "label": 1, "statement": "The city of Kleinzschocher is in Brazil."}
+{"group": 567, "label": 0, "statement": "The city of Davao is in the Philippines."}
+{"group": 567, "label": 1, "statement": "The city of Davao is in Brazil."}
+{"group": 568, "label": 0, "statement": "The city of Sargodha is in Pakistan."}
+{"group": 568, "label": 1, "statement": "The city of Sargodha is in India."}
+{"group": 569, "label": 0, "statement": "The city of Islamabad is in Pakistan."}
+{"group": 569, "label": 1, "statement": "The city of Islamabad is in Japan."}
+{"group": 570, "label": 0, "statement": "The city of Zapopan is in Mexico."}
+{"group": 570, "label": 1, "statement": "The city of Zapopan is in China."}
+{"group": 571, "label": 0, "statement": "The city of Visakhapatnam is in India."}
+{"group": 571, "label": 1, "statement": "The city of Visakhapatnam is in Indonesia."}
+{"group": 572, "label": 0, "statement": "The city of Rourkela is in India."}
+{"group": 572, "label": 1, "statement": "The city of Rourkela is in Brazil."}
+{"group": 573, "label": 0, "statement": "The city of Dhanbad is in India."}
+{"group": 573, "label": 1, "statement": "The city of Dhanbad is in Kenya."}
+{"group": 574, "label": 0, "statement": "The city of Bokaro is in India."}
+{"group": 574, "label": 1, "statement": "The city of Bokaro is in China."}
+{"group": 575, "label": 0, "statement": "The city of Tabriz is in Iran."}
+{"group": 575, "label": 1, "statement": "The city of Tabriz is in India."}
+{"group": 576, "label": 0, "statement": "The city of Tlaquepaque is in Mexico."}
+{"group": 576, "label": 1, "statement": "The city of Tlaquepaque is in Japan."}
+{"group": 577, "label": 0, "statement": "The city of Victoria de Durango is in Mexico."}
+{"group": 577, "label": 1, "statement": "The city of Victoria de Durango is in Ghana."}
+{"group": 578, "label": 0, "statement": "The city of Kota Kinabalu is in Malaysia."}
+{"group": 578, "label": 1, "statement": "The city of Kota Kinabalu is in the United States."}
+{"group": 579, "label": 0, "statement": "The city of Nairobi is in Kenya."}
+{"group": 579, "label": 1, "statement": "The city of Nairobi is in Mexico."}
+{"group": 580, "label": 0, "statement": "The city of Taguig is in the Philippines."}
+{"group": 580, "label": 1, "statement": "The city of Taguig is in India."}
+{"group": 581, "label": 0, "statement": "The city of Rajkot is in India."}
+{"group": 581, "label": 1, "statement": "The city of Rajkot is in Russia."}
+{"group": 582, "label": 0, "statement": "The city of Pune is in India."}
+{"group": 582, "label": 1, "statement": "The city of Pune is in South Korea."}
+{"group": 583, "label": 0, "statement": "The city of Ludhiana is in India."}
+{"group": 583, "label": 1, "statement": "The city of Ludhiana is in Togo."}
+{"group": 584, "label": 0, "statement": "The city of Jamshedpur is in India."}
+{"group": 584, "label": 1, "statement": "The city of Jamshedpur is in China."}
+{"group": 585, "label": 0, "statement": "The city of Bhiwandi is in India."}
+{"group": 585, "label": 1, "statement": "The city of Bhiwandi is in China."}
+{"group": 586, "label": 0, "statement": "The city of Erbil is in Iraq."}
+{"group": 586, "label": 1, "statement": "The city of Erbil is in Cuba."}
+{"group": 587, "label": 0, "statement": "The city of Chelyabinsk is in Russia."}
+{"group": 587, "label": 1, "statement": "The city of Chelyabinsk is in China."}
+{"group": 588, "label": 0, "statement": "The city of Uskudar is in Turkey."}
+{"group": 588, "label": 1, "statement": "The city of Uskudar is in Bulgaria."}
+{"group": 589, "label": 0, "statement": "The city of Bagcilar is in Turkey."}
+{"group": 589, "label": 1, "statement": "The city of Bagcilar is in Iran."}
+{"group": 590, "label": 0, "statement": "The city of Quezon City is in the Philippines."}
+{"group": 590, "label": 1, "statement": "The city of Quezon City is in China."}
+{"group": 591, "label": 0, "statement": "The city of Mexico City is in Mexico."}
+{"group": 591, "label": 1, "statement": "The city of Mexico City is in China."}
+{"group": 592, "label": 0, "statement": "The city of Leon de los Aldama is in Mexico."}
+{"group": 592, "label": 1, "statement": "The city of Leon de los Aldama is in China."}
+{"group": 593, "label": 0, "statement": "The city of Fes is in Morocco."}
+{"group": 593, "label": 1, "statement": "The city of Fes is in Mali."}
+{"group": 594, "label": 0, "statement": "The city of Surat is in India."}
+{"group": 594, "label": 1, "statement": "The city of Surat is in Burkina Faso."}
+{"group": 595, "label": 0, "statement": "The city of Barnaul is in Russia."}
+{"group": 595, "label": 1, "statement": "The city of Barnaul is in South Africa."}
+{"group": 596, "label": 0, "statement": "The city of Buraydah is in Saudi Arabia."}
+{"group": 596, "label": 1, "statement": "The city of Buraydah is in Rwanda."}
+{"group": 597, "label": 0, "statement": "The city of Bikaner is in India."}
+{"group": 597, "label": 1, "statement": "The city of Bikaner is in South Korea."}
+{"group": 598, "label": 0, "statement": "The city of Mogadishu is in Somalia."}
+{"group": 598, "label": 1, "statement": "The city of Mogadishu is in Iran."}
+{"group": 599, "label": 0, "statement": "The city of Homs is in Syria."}
+{"group": 599, "label": 1, "statement": "The city of Homs is in Indonesia."}
+{"group": 600, "label": 0, "statement": "The city of Port-au-Prince is in Haiti."}
+{"group": 600, "label": 1, "statement": "The city of Port-au-Prince is in South Korea."}
+{"group": 601, "label": 0, "statement": "The city of Thuan An is in Vietnam."}
+{"group": 601, "label": 1, "statement": "The city of Thuan An is in Mozambique."}
+{"group": 602, "label": 0, "statement": "The city of Sanaa is in Yemen."}
+{"group": 602, "label": 1, "statement": "The city of Sanaa is in China."}
+{"group": 603, "label": 0, "statement": "The city of Pretoria is in South Africa."}
+{"group": 603, "label": 1, "statement": "The city of Pretoria is in India."}
+{"group": 604, "label": 0, "statement": "The city of Pietermaritzburg is in South Africa."}
+{"group": 604, "label": 1, "statement": "The city of Pietermaritzburg is in China."}
+{"group": 605, "label": 0, "statement": "The city of Abu Dhabi is in the United Arab Emirates."}
+{"group": 605, "label": 1, "statement": "The city of Abu Dhabi is in Oman."}
+{"group": 606, "label": 0, "statement": "The city of Sao Paulo is in Brazil."}
+{"group": 606, "label": 1, "statement": "The city of Sao Paulo is in China."}
+{"group": 607, "label": 0, "statement": "The city of Lianyungang is in China."}
+{"group": 607, "label": 1, "statement": "The city of Lianyungang is in the Philippines."}
+{"group": 608, "label": 0, "statement": "The city of Xiaogan is in China."}
+{"group": 608, "label": 1, "statement": "The city of Xiaogan is in Ukraine."}
+{"group": 609, "label": 0, "statement": "The city of Taicang is in China."}
+{"group": 609, "label": 1, "statement": "The city of Taicang is in Madagascar."}
+{"group": 610, "label": 0, "statement": "The city of Guiyang is in China."}
+{"group": 610, "label": 1, "statement": "The city of Guiyang is in South Korea."}
+{"group": 611, "label": 0, "statement": "The city of Ganzhou is in China."}
+{"group": 611, "label": 1, "statement": "The city of Ganzhou is in South Korea."}
+{"group": 612, "label": 0, "statement": "The city of Shangyu is in China."}
+{"group": 612, "label": 1, "statement": "The city of Shangyu is in the United Arab Emirates."}
+{"group": 613, "label": 0, "statement": "The city of Jambi City is in Indonesia."}
+{"group": 613, "label": 1, "statement": "The city of Jambi City is in China."}
+{"group": 614, "label": 0, "statement": "The city of Indianapolis is in the United States."}
+{"group": 614, "label": 1, "statement": "The city of Indianapolis is in C\u00f4te d'Ivoire."}
+{"group": 615, "label": 0, "statement": "The city of New York City is in the United States."}
+{"group": 615, "label": 1, "statement": "The city of New York City is in India."}
+{"group": 616, "label": 0, "statement": "The city of Bulawayo is in Zimbabwe."}
+{"group": 616, "label": 1, "statement": "The city of Bulawayo is in China."}
+{"group": 617, "label": 0, "statement": "The city of Santiago de Cuba is in Cuba."}
+{"group": 617, "label": 1, "statement": "The city of Santiago de Cuba is in India."}
+{"group": 618, "label": 0, "statement": "The city of Quito is in Ecuador."}
+{"group": 618, "label": 1, "statement": "The city of Quito is in China."}
+{"group": 619, "label": 0, "statement": "The city of Shubra al Khaymah is in Egypt."}
+{"group": 619, "label": 1, "statement": "The city of Shubra al Khaymah is in Nigeria."}
+{"group": 620, "label": 0, "statement": "The city of Al Mahallah al Kubra is in Egypt."}
+{"group": 620, "label": 1, "statement": "The city of Al Mahallah al Kubra is in Afghanistan."}
+{"group": 621, "label": 0, "statement": "The city of Suining is in China."}
+{"group": 621, "label": 1, "statement": "The city of Suining is in Algeria."}
+{"group": 622, "label": 0, "statement": "The city of Guankou is in China."}
+{"group": 622, "label": 1, "statement": "The city of Guankou is in Pakistan."}
+{"group": 623, "label": 0, "statement": "The city of Langfang is in China."}
+{"group": 623, "label": 1, "statement": "The city of Langfang is in India."}
+{"group": 624, "label": 0, "statement": "The city of Jinan is in China."}
+{"group": 624, "label": 1, "statement": "The city of Jinan is in Rwanda."}
+{"group": 625, "label": 0, "statement": "The city of Guigang is in China."}
+{"group": 625, "label": 1, "statement": "The city of Guigang is in Japan."}
+{"group": 626, "label": 0, "statement": "The city of Dalian is in China."}
+{"group": 626, "label": 1, "statement": "The city of Dalian is in Saudi Arabia."}
+{"group": 627, "label": 0, "statement": "The city of Chongqing is in China."}
+{"group": 627, "label": 1, "statement": "The city of Chongqing is in Sweden."}
+{"group": 628, "label": 0, "statement": "The city of Homyel' is in Belarus."}
+{"group": 628, "label": 1, "statement": "The city of Homyel' is in Iran."}
+{"group": 629, "label": 0, "statement": "The city of Winnipeg is in Canada."}
+{"group": 629, "label": 1, "statement": "The city of Winnipeg is in Mexico."}
+{"group": 630, "label": 0, "statement": "The city of Klang is in Malaysia."}
+{"group": 630, "label": 1, "statement": "The city of Klang is in China."}
+{"group": 631, "label": 0, "statement": "The city of Irbid is in Jordan."}
+{"group": 631, "label": 1, "statement": "The city of Irbid is in India."}
+{"group": 632, "label": 0, "statement": "The city of Bishkek is in Kyrgyzstan."}
+{"group": 632, "label": 1, "statement": "The city of Bishkek is in Germany."}
+{"group": 633, "label": 0, "statement": "The city of Muzaffarabad is in Pakistan."}
+{"group": 633, "label": 1, "statement": "The city of Muzaffarabad is in China."}
+{"group": 634, "label": 0, "statement": "The city of Kotli is in Pakistan."}
+{"group": 634, "label": 1, "statement": "The city of Kotli is in the United States."}
+{"group": 635, "label": 0, "statement": "The city of Nagpur is in India."}
+{"group": 635, "label": 1, "statement": "The city of Nagpur is in Denmark."}
+{"group": 636, "label": 0, "statement": "The city of Kolhapur is in India."}
+{"group": 636, "label": 1, "statement": "The city of Kolhapur is in Mozambique."}
+{"group": 637, "label": 0, "statement": "The city of Cuttack is in India."}
+{"group": 637, "label": 1, "statement": "The city of Cuttack is in Pakistan."}
+{"group": 638, "label": 0, "statement": "The city of Makassar is in Indonesia."}
+{"group": 638, "label": 1, "statement": "The city of Makassar is in China."}
+{"group": 639, "label": 0, "statement": "The city of Yekaterinburg is in Russia."}
+{"group": 639, "label": 1, "statement": "The city of Yekaterinburg is in Lithuania."}
+{"group": 640, "label": 0, "statement": "The city of Dammam is in Saudi Arabia."}
+{"group": 640, "label": 1, "statement": "The city of Dammam is in Russia."}
+{"group": 641, "label": 0, "statement": "The city of Dushanbe is in Tajikistan."}
+{"group": 641, "label": 1, "statement": "The city of Dushanbe is in Nigeria."}
+{"group": 642, "label": 0, "statement": "The city of Gaziantep is in Turkey."}
+{"group": 642, "label": 1, "statement": "The city of Gaziantep is in Mexico."}
+{"group": 643, "label": 0, "statement": "The city of Asuncion is in Paraguay."}
+{"group": 643, "label": 1, "statement": "The city of Asuncion is in Nigeria."}
+{"group": 644, "label": 0, "statement": "The city of Tebessa is in Algeria."}
+{"group": 644, "label": 1, "statement": "The city of Tebessa is in India."}
+{"group": 645, "label": 0, "statement": "The city of Zhuzhou is in China."}
+{"group": 645, "label": 1, "statement": "The city of Zhuzhou is in France."}
+{"group": 646, "label": 0, "statement": "The city of Xining is in China."}
+{"group": 646, "label": 1, "statement": "The city of Xining is in the United Arab Emirates."}
+{"group": 647, "label": 0, "statement": "The city of Tanggu is in China."}
+{"group": 647, "label": 1, "statement": "The city of Tanggu is in South Korea."}
+{"group": 648, "label": 0, "statement": "The city of Shantou is in China."}
+{"group": 648, "label": 1, "statement": "The city of Shantou is in Pakistan."}
+{"group": 649, "label": 0, "statement": "The city of Shangluo is in China."}
+{"group": 649, "label": 1, "statement": "The city of Shangluo is in Honduras."}
+{"group": 650, "label": 0, "statement": "The city of Putian is in China."}
+{"group": 650, "label": 1, "statement": "The city of Putian is in Vietnam."}
+{"group": 651, "label": 0, "statement": "The city of Luzhou is in China."}
+{"group": 651, "label": 1, "statement": "The city of Luzhou is in Peru."}
+{"group": 652, "label": 0, "statement": "The city of Lanzhou is in China."}
+{"group": 652, "label": 1, "statement": "The city of Lanzhou is in Mexico."}
+{"group": 653, "label": 0, "statement": "The city of Chenzhou is in China."}
+{"group": 653, "label": 1, "statement": "The city of Chenzhou is in Brazil."}
+{"group": 654, "label": 0, "statement": "The city of Baise is in China."}
+{"group": 654, "label": 1, "statement": "The city of Baise is in Japan."}
+{"group": 655, "label": 0, "statement": "The city of Shenyang is in China."}
+{"group": 655, "label": 1, "statement": "The city of Shenyang is in Somalia."}
+{"group": 656, "label": 0, "statement": "The city of Daqing is in China."}
+{"group": 656, "label": 1, "statement": "The city of Daqing is in Brazil."}
+{"group": 657, "label": 0, "statement": "The city of Brasilia is in Brazil."}
+{"group": 657, "label": 1, "statement": "The city of Brasilia is in South Korea."}
+{"group": 658, "label": 0, "statement": "The city of Kandahar is in Afghanistan."}
+{"group": 658, "label": 1, "statement": "The city of Kandahar is in China."}
+{"group": 659, "label": 0, "statement": "The city of Gold Coast is in Australia."}
+{"group": 659, "label": 1, "statement": "The city of Gold Coast is in China."}
+{"group": 660, "label": 0, "statement": "The city of Ouagadougou is in Burkina Faso."}
+{"group": 660, "label": 1, "statement": "The city of Ouagadougou is in China."}
+{"group": 661, "label": 0, "statement": "The city of Duque de Caxias is in Brazil."}
+{"group": 661, "label": 1, "statement": "The city of Duque de Caxias is in C\u00f4te d'Ivoire."}
+{"group": 662, "label": 0, "statement": "The city of Hiroshima is in Japan."}
+{"group": 662, "label": 1, "statement": "The city of Hiroshima is in Malaysia."}
+{"group": 663, "label": 0, "statement": "The city of Saitama is in Japan."}
+{"group": 663, "label": 1, "statement": "The city of Saitama is in India."}
+{"group": 664, "label": 0, "statement": "The city of Mandalay is in Myanmar."}
+{"group": 664, "label": 1, "statement": "The city of Mandalay is in Algeria."}
+{"group": 665, "label": 0, "statement": "The city of Nampula is in Mozambique."}
+{"group": 665, "label": 1, "statement": "The city of Nampula is in India."}
+{"group": 666, "label": 0, "statement": "The city of Mysore is in India."}
+{"group": 666, "label": 1, "statement": "The city of Mysore is in Mexico."}
+{"group": 667, "label": 0, "statement": "The city of Coimbatore is in India."}
+{"group": 667, "label": 1, "statement": "The city of Coimbatore is in Malaysia."}
+{"group": 668, "label": 0, "statement": "The city of Chandigarh is in India."}
+{"group": 668, "label": 1, "statement": "The city of Chandigarh is in China."}
+{"group": 669, "label": 0, "statement": "The city of Amritsar is in India."}
+{"group": 669, "label": 1, "statement": "The city of Amritsar is in Moldova."}
+{"group": 670, "label": 0, "statement": "The city of Arak is in Iran."}
+{"group": 670, "label": 1, "statement": "The city of Arak is in India."}
+{"group": 671, "label": 0, "statement": "The city of Ilorin is in Nigeria."}
+{"group": 671, "label": 1, "statement": "The city of Ilorin is in Ukraine."}
+{"group": 672, "label": 0, "statement": "The city of Omdurman is in Sudan."}
+{"group": 672, "label": 1, "statement": "The city of Omdurman is in South Korea."}
+{"group": 673, "label": 0, "statement": "The city of Khartoum is in Sudan."}
+{"group": 673, "label": 1, "statement": "The city of Khartoum is in China."}
+{"group": 674, "label": 0, "statement": "The city of Gujranwala is in Pakistan."}
+{"group": 674, "label": 1, "statement": "The city of Gujranwala is in China."}
+{"group": 675, "label": 0, "statement": "The city of Nizhniy Novgorod is in Russia."}
+{"group": 675, "label": 1, "statement": "The city of Nizhniy Novgorod is in China."}
+{"group": 676, "label": 0, "statement": "The city of Zhaoqing is in China."}
+{"group": 676, "label": 1, "statement": "The city of Zhaoqing is in Brazil."}
+{"group": 677, "label": 0, "statement": "The city of Xianning is in China."}
+{"group": 677, "label": 1, "statement": "The city of Xianning is in Lebanon."}
+{"group": 678, "label": 0, "statement": "The city of Suqian is in China."}
+{"group": 678, "label": 1, "statement": "The city of Suqian is in Mexico."}
+{"group": 679, "label": 0, "statement": "The city of Tonghua is in China."}
+{"group": 679, "label": 1, "statement": "The city of Tonghua is in Venezuela."}
+{"group": 680, "label": 0, "statement": "The city of Hezhou is in China."}
+{"group": 680, "label": 1, "statement": "The city of Hezhou is in India."}
+{"group": 681, "label": 0, "statement": "The city of Grosszschocher is in Germany."}
+{"group": 681, "label": 1, "statement": "The city of Grosszschocher is in China."}
+{"group": 682, "label": 0, "statement": "The city of San Pedro Sula is in Honduras."}
+{"group": 682, "label": 1, "statement": "The city of San Pedro Sula is in India."}
+{"group": 683, "label": 0, "statement": "The city of Queens is in the United States."}
+{"group": 683, "label": 1, "statement": "The city of Queens is in India."}
+{"group": 684, "label": 0, "statement": "The city of Caracas is in Venezuela."}
+{"group": 684, "label": 1, "statement": "The city of Caracas is in Sudan."}
+{"group": 685, "label": 0, "statement": "The city of Bien Hoa is in Vietnam."}
+{"group": 685, "label": 1, "statement": "The city of Bien Hoa is in South Korea."}
+{"group": 686, "label": 0, "statement": "The city of Durban is in South Africa."}
+{"group": 686, "label": 1, "statement": "The city of Durban is in Ukraine."}
+{"group": 687, "label": 0, "statement": "The city of Kawaguchi is in Japan."}
+{"group": 687, "label": 1, "statement": "The city of Kawaguchi is in Indonesia."}
+{"group": 688, "label": 0, "statement": "The city of Bucheon-si is in South Korea."}
+{"group": 688, "label": 1, "statement": "The city of Bucheon-si is in Romania."}
+{"group": 689, "label": 0, "statement": "The city of Tangier is in Morocco."}
+{"group": 689, "label": 1, "statement": "The city of Tangier is in Ecuador."}
+{"group": 690, "label": 0, "statement": "The city of Nay Pyi Taw is in Myanmar."}
+{"group": 690, "label": 1, "statement": "The city of Nay Pyi Taw is in Mozambique."}
+{"group": 691, "label": 0, "statement": "The city of Ulhasnagar is in India."}
+{"group": 691, "label": 1, "statement": "The city of Ulhasnagar is in Senegal."}
+{"group": 692, "label": 0, "statement": "The city of Faridabad is in India."}
+{"group": 692, "label": 1, "statement": "The city of Faridabad is in the United States."}
+{"group": 693, "label": 0, "statement": "The city of Kolkata is in India."}
+{"group": 693, "label": 1, "statement": "The city of Kolkata is in Japan."}
+{"group": 694, "label": 0, "statement": "The city of Karbala is in Iraq."}
+{"group": 694, "label": 1, "statement": "The city of Karbala is in Turkey."}
+{"group": 695, "label": 0, "statement": "The city of Jakarta is in Indonesia."}
+{"group": 695, "label": 1, "statement": "The city of Jakarta is in Colombia."}
+{"group": 696, "label": 0, "statement": "The city of Denpasar is in Indonesia."}
+{"group": 696, "label": 1, "statement": "The city of Denpasar is in Brazil."}
+{"group": 697, "label": 0, "statement": "The city of Batam is in Indonesia."}
+{"group": 697, "label": 1, "statement": "The city of Batam is in Turkey."}
+{"group": 698, "label": 0, "statement": "The city of Liupanshui is in China."}
+{"group": 698, "label": 1, "statement": "The city of Liupanshui is in the Philippines."}
+{"group": 699, "label": 0, "statement": "The city of Shangrao is in China."}
+{"group": 699, "label": 1, "statement": "The city of Shangrao is in Russia."}
+{"group": 700, "label": 0, "statement": "The city of Xingtai is in China."}
+{"group": 700, "label": 1, "statement": "The city of Xingtai is in Russia."}
+{"group": 701, "label": 0, "statement": "The city of Qujing is in China."}
+{"group": 701, "label": 1, "statement": "The city of Qujing is in India."}
+{"group": 702, "label": 0, "statement": "The city of Nanning is in China."}
+{"group": 702, "label": 1, "statement": "The city of Nanning is in Japan."}
+{"group": 703, "label": 0, "statement": "The city of Huainan is in China."}
+{"group": 703, "label": 1, "statement": "The city of Huainan is in Egypt."}
+{"group": 704, "label": 0, "statement": "The city of Binzhou is in China."}
+{"group": 704, "label": 1, "statement": "The city of Binzhou is in Brazil."}
+{"group": 705, "label": 0, "statement": "The city of Fuxin is in China."}
+{"group": 705, "label": 1, "statement": "The city of Fuxin is in Pakistan."}
+{"group": 706, "label": 0, "statement": "The city of Quebec is in Canada."}
+{"group": 706, "label": 1, "statement": "The city of Quebec is in Zimbabwe."}
+{"group": 707, "label": 0, "statement": "The city of Mazar-e Sharif is in Afghanistan."}
+{"group": 707, "label": 1, "statement": "The city of Mazar-e Sharif is in India."}
+{"group": 708, "label": 0, "statement": "The city of Mar del Plata is in Argentina."}
+{"group": 708, "label": 1, "statement": "The city of Mar del Plata is in Nigeria."}
+{"group": 709, "label": 0, "statement": "The city of Salta is in Argentina."}
+{"group": 709, "label": 1, "statement": "The city of Salta is in India."}
+{"group": 710, "label": 0, "statement": "The city of Bujumbura is in Burundi."}
+{"group": 710, "label": 1, "statement": "The city of Bujumbura is in Nigeria."}
+{"group": 711, "label": 0, "statement": "The city of Ankara is in Turkey."}
+{"group": 711, "label": 1, "statement": "The city of Ankara is in Japan."}
+{"group": 712, "label": 0, "statement": "The city of Esenler is in Turkey."}
+{"group": 712, "label": 1, "statement": "The city of Esenler is in India."}
+{"group": 713, "label": 0, "statement": "The city of Cankaya is in Turkey."}
+{"group": 713, "label": 1, "statement": "The city of Cankaya is in the United States."}
+{"group": 714, "label": 0, "statement": "The city of Ufa is in Russia."}
+{"group": 714, "label": 1, "statement": "The city of Ufa is in South Korea."}
+{"group": 715, "label": 0, "statement": "The city of Rawalpindi is in Pakistan."}
+{"group": 715, "label": 1, "statement": "The city of Rawalpindi is in Brazil."}
+{"group": 716, "label": 0, "statement": "The city of Karachi is in Pakistan."}
+{"group": 716, "label": 1, "statement": "The city of Karachi is in India."}
+{"group": 717, "label": 0, "statement": "The city of Tijuana is in Mexico."}
+{"group": 717, "label": 1, "statement": "The city of Tijuana is in the United Arab Emirates."}
+{"group": 718, "label": 0, "statement": "The city of Jos is in Nigeria."}
+{"group": 718, "label": 1, "statement": "The city of Jos is in India."}
+{"group": 719, "label": 0, "statement": "The city of Ibadan is in Nigeria."}
+{"group": 719, "label": 1, "statement": "The city of Ibadan is in Malaysia."}
+{"group": 720, "label": 0, "statement": "The city of Managua is in Nicaragua."}
+{"group": 720, "label": 1, "statement": "The city of Managua is in Turkey."}
+{"group": 721, "label": 0, "statement": "The city of Ha'il is in Saudi Arabia."}
+{"group": 721, "label": 1, "statement": "The city of Ha'il is in China."}
+{"group": 722, "label": 0, "statement": "The city of Haiphong is in Vietnam."}
+{"group": 722, "label": 1, "statement": "The city of Haiphong is in the Dominican Republic."}
+{"group": 723, "label": 0, "statement": "The city of Cape Town is in South Africa."}
+{"group": 723, "label": 1, "statement": "The city of Cape Town is in China."}
+{"group": 724, "label": 0, "statement": "The city of Ipoh is in Malaysia."}
+{"group": 724, "label": 1, "statement": "The city of Ipoh is in Brazil."}
+{"group": 725, "label": 0, "statement": "The city of Kuantan is in Malaysia."}
+{"group": 725, "label": 1, "statement": "The city of Kuantan is in India."}
+{"group": 726, "label": 0, "statement": "The city of Maiduguri is in Nigeria."}
+{"group": 726, "label": 1, "statement": "The city of Maiduguri is in China."}
+{"group": 727, "label": 0, "statement": "The city of Yangon is in Myanmar."}
+{"group": 727, "label": 1, "statement": "The city of Yangon is in Kenya."}
+{"group": 728, "label": 0, "statement": "The city of Kathmandu is in Nepal."}
+{"group": 728, "label": 1, "statement": "The city of Kathmandu is in China."}
+{"group": 729, "label": 0, "statement": "The city of Las Pinas is in the Philippines."}
+{"group": 729, "label": 1, "statement": "The city of Las Pinas is in Yemen."}
+{"group": 730, "label": 0, "statement": "The city of Reynosa is in Mexico."}
+{"group": 730, "label": 1, "statement": "The city of Reynosa is in China."}
+{"group": 731, "label": 0, "statement": "The city of Rostov-na-Donu is in Russia."}
+{"group": 731, "label": 1, "statement": "The city of Rostov-na-Donu is in the United Arab Emirates."}
+{"group": 732, "label": 0, "statement": "The city of Ibague is in Colombia."}
+{"group": 732, "label": 1, "statement": "The city of Ibague is in Finland."}
+{"group": 733, "label": 0, "statement": "The city of Copenhagen is in Denmark."}
+{"group": 733, "label": 1, "statement": "The city of Copenhagen is in China."}
+{"group": 734, "label": 0, "statement": "The city of Xinyang is in China."}
+{"group": 734, "label": 1, "statement": "The city of Xinyang is in Japan."}
+{"group": 735, "label": 0, "statement": "The city of Weinan is in China."}
+{"group": 735, "label": 1, "statement": "The city of Weinan is in Colombia."}
+{"group": 736, "label": 0, "statement": "The city of Wanning is in China."}
+{"group": 736, "label": 1, "statement": "The city of Wanning is in the United States."}
+{"group": 737, "label": 0, "statement": "The city of Shijiazhuang is in China."}
+{"group": 737, "label": 1, "statement": "The city of Shijiazhuang is in Uzbekistan."}
+{"group": 738, "label": 0, "statement": "The city of Laiwu is in China."}
+{"group": 738, "label": 1, "statement": "The city of Laiwu is in the United States."}
+{"group": 739, "label": 0, "statement": "The city of Hengyang is in China."}
+{"group": 739, "label": 1, "statement": "The city of Hengyang is in Turkey."}
+{"group": 740, "label": 0, "statement": "The city of Changchun is in China."}
+{"group": 740, "label": 1, "statement": "The city of Changchun is in Germany."}
+{"group": 741, "label": 0, "statement": "The city of Varanasi is in India."}
+{"group": 741, "label": 1, "statement": "The city of Varanasi is in Turkey."}
+{"group": 742, "label": 0, "statement": "The city of Puducherry is in India."}
+{"group": 742, "label": 1, "statement": "The city of Puducherry is in Brazil."}
+{"group": 743, "label": 0, "statement": "The city of Bhopal is in India."}
+{"group": 743, "label": 1, "statement": "The city of Bhopal is in Russia."}
+{"group": 744, "label": 0, "statement": "The city of Kanayannur is in India."}
+{"group": 744, "label": 1, "statement": "The city of Kanayannur is in Saudi Arabia."}
+{"group": 745, "label": 0, "statement": "The city of Kirkuk is in Iraq."}
+{"group": 745, "label": 1, "statement": "The city of Kirkuk is in China."}
+{"group": 746, "label": 0, "statement": "The city of Al Mawsil al Jadidah is in Iraq."}
+{"group": 746, "label": 1, "statement": "The city of Al Mawsil al Jadidah is in India."}
+{"group": 747, "label": 0, "statement": "The city of Tangerang is in Indonesia."}
+{"group": 747, "label": 1, "statement": "The city of Tangerang is in China."}
